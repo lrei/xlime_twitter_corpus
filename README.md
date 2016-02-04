@@ -33,7 +33,7 @@ Some tweets were set aside and labeled by all annotators working on the language
 After removing the overlapping tweets the resulting corpus is
 
 | Language     | Tweets | Tokens   |
-| ------------ | ------------------|
+| ------------ | ------ | -------- |
 | German       | 3400   | 60873    |
 | Italian      | 8601   | 162269   |
 | Spanish      | 7668   | 140852   |
@@ -42,7 +42,7 @@ After removing the overlapping tweets the resulting corpus is
 ### Sentiment
 
 | Language  | Positive | Neutral | Negative  | Total |
-| --------- | ------------------ | ----------|------ |
+| --------- | -------- | ------- | --------- | ----- |
 | German    | 334      | 2924    | 142       | 3400  |
 | Italian   | 554      | 7524    | 523       | 8601  |
 | Spanish   | 388      | 7083    | 197       | 7668  |
@@ -51,7 +51,7 @@ After removing the overlapping tweets the resulting corpus is
 ### Part of Speech
 
 | Tag          | German   | Italian | Spanish   |
-| ------------ | ------------------ | ----------|
+| ------------ | -------- | ------- | --------- |
 | Adjective    | 2514     | 7684    | 5741      |
 | Adposition   | 4333     | 14960   | 13467     |
 | Adverb       | 4173     | 8476    | 6116      |
@@ -75,7 +75,7 @@ After removing the overlapping tweets the resulting corpus is
 ### Named Entities
 
 | Entity Type  | German | Italian | Spanish   |
-| ------------ | ---------------- | ----------|
+| ------------ | ------ | ------- | ----------|
 | Location     | 742    | 2087    | 1441      |
 | Miscellaneous| 995    | 5802    | 775       |
 | Organization | 350    | 1150    | 836       |
@@ -205,7 +205,6 @@ git clone https://github.com/lrei/xlime_twitter_corpus.git
 | agreement/    | Overlapping annotations in a format easy for calculating agreement.      |
 | experiments/  | Contains the result of the POS tagging experiments.                     |
 
-### Corpus - Original Export (data/)
 
 ### Corpus - Usable (corpus\_task/)
 
