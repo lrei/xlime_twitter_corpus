@@ -25,6 +25,45 @@ import sys
 import pandas as pd
 from data import *
 
+m2short = {
+        'VERB': 'NOUN',
+        'NOUN': 'NOUN',
+        'PRONOUN': 'PRON',
+        'ADJECTIVE':'ADJ',
+        'ADVERB': 'ADV',
+        'ADPOSITION': 'ADP',
+        'CONJUNCTION': 'CONJ',
+        'DETERMINANT': 'DET',
+        'NUMBER': 'NUM',
+        'PARTICLE':'PRT',
+        'OTHER': 'X',
+        'PUNCTUATION': '.',
+        'HASHTAG': '#',
+        'MENTION': '@',
+        'URL': 'U',
+        'CONTINUATION': '~',
+        'EMOTICON': 'E'
+        }
+
+def tag2short(tag):
+    tag = tag.upper()
+    if tag in m2short:
+        tag = m2short[tag]
+
+    return tag
+
+
+def replace_tokens(tokens):
+    tokens_new = []
+    for token in tokens:
+        if token.lower() == 'tuseruser':
+            token = '@lmrei'
+        elif token.lower() == 'turlturl':
+            token = 'http://luisrei.com'
+
+        tokens_new.append(token)
+    return tokens_new
+
 col = 'tok_task_' + sys.argv[1]
 infile = sys.argv[2]
 outfile = sys.argv[3]
@@ -59,9 +98,13 @@ for doc_id in doc_ids:
     doc_id = list(set(doc_data.doc_id))[0]
 
     tokens = list(doc_data['token'])
+    tokens = replace_tokens(tokens)
     labels = list(doc_data[col])
     # remove ner prefix if it is in there
     labels = [x.split('-')[1] if '-' in x else x for x in labels]
+    # convert tags to short form
+    if sys.argv[1] == 'pos':
+        labels = [tag2short(x) for x in labels]
 
     outtext[doc_id] = tokens
     outlabels[doc_id] = labels

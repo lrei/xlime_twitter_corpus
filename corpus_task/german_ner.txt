@@ -1,8 +1,8 @@
 RT O
-TUSERUSER O
+@lmrei O
 : O
 The O
-TUSERUSER O
+@lmrei O
 schreibt O
 schon O
 über O
@@ -19,7 +19,7 @@ Premiere O
 morgeTUSERUSER O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Danke O
 für O
@@ -32,7 +32,7 @@ Ich O
 liebe O
 Dich O
 mein O
-TUSERUSER O
+@lmrei O
 :-) O
 #Double O
 #MiaSanMia O
@@ -68,7 +68,7 @@ Girl MISC
 " O
 xD O
 
-TUSERUSER O
+@lmrei O
 irgendwo O
 in O
 aachen LOCATION
@@ -80,7 +80,7 @@ sie O
 wohnt O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Zur O
 Halbzeit O
@@ -101,7 +101,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Politikerin O
 Özoguz PERSON
@@ -130,7 +130,7 @@ Dierdorfer LOCATION
 Straße LOCATION
 aufgebaut O
 
-TUSERUSER O
+@lmrei O
 Und O
 selbst O
 die O
@@ -166,10 +166,10 @@ angekommen O
 Mit O
 dabei O
 : O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Tausche O
 alte O
@@ -184,7 +184,7 @@ Bitte O
 //TUSERUSER O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 diz O
 AG O
@@ -211,9 +211,9 @@ gepostet O
 TURLURL O
 
 “ O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Hi O
 , O
 bitte O
@@ -226,7 +226,7 @@ Viele O
 Grüße O
 ! O
 ” O
-TUSERUSER O
+@lmrei O
 ich O
 frage O
 öfter O
@@ -286,7 +286,7 @@ TURLURL O
 #Androidgames O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Heike PERSON
 Rupnow PERSON
@@ -315,7 +315,7 @@ http O
 /TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 wollen O
@@ -338,7 +338,7 @@ zu O
 sein O
 . O
 
-TUSERUSER O
+@lmrei O
 hast O
 Du O
 denn O
@@ -365,7 +365,7 @@ naja O
 .. O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Moment O
@@ -383,7 +383,7 @@ möchtest O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Danke O
 , O
@@ -412,7 +412,7 @@ Reinickendorf MISC
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Schwager O
@@ -432,7 +432,7 @@ TURLURL O
 ür O
 … O
 
-TUSERUSER O
+@lmrei O
 Was O
 Lieder O
 teilweise O
@@ -490,7 +490,7 @@ ARGH O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bild O
 : O
@@ -510,9 +510,9 @@ TURLURL O
 #svw O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 vielen O
 Dank O
 für O
@@ -551,7 +551,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 In O
 diesem O
@@ -621,7 +621,7 @@ white ORG
 stripes ORG
 verliebt O
 
-TUSERUSER O
+@lmrei O
 DIE O
 GANG O
 ist O
@@ -703,7 +703,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Krise O
 des O
@@ -719,7 +719,7 @@ Vettel PERSON
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #N LOCATION
 öbdenitz O
@@ -737,7 +737,7 @@ durch O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Glückliches O
 Händchen O
@@ -751,7 +751,7 @@ Aktien O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bei O
 Facebook MISC
@@ -769,12 +769,12 @@ ein O
 Trojaner O
 ( O
 RT O
-TUSERUSER O
+@lmrei O
 via O
-TUSERUSER O
+@lmrei O
 ) O
 
-TUSERUSER O
+@lmrei O
 #askpxl O
 freust O
 du O
@@ -786,7 +786,7 @@ in O
 . O
 8 O
 
-TUSERUSER O
+@lmrei O
 wir O
 haben O
 wlan O
@@ -806,7 +806,7 @@ haha O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ex-Bayern-Star O
 Lell PERSON
@@ -864,7 +864,7 @@ nachts O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Du O
 bist O
@@ -875,7 +875,7 @@ und O
 nichts O
 . O
 
-TUSERUSER O
+@lmrei O
 du O
 arme O
 das O
@@ -897,7 +897,7 @@ Insolvenz O
 wochenkurier O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Das O
 Leben O
@@ -981,14 +981,14 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -1025,7 +1025,7 @@ wird O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #ranNFL O
 : O
@@ -1098,7 +1098,7 @@ richtig O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Amarillo PERSON
 Slim PERSON
@@ -1128,7 +1128,7 @@ geradE O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Immer O
@@ -1158,7 +1158,7 @@ http O
 co/TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 TEMELIN O
 Ausbau O
@@ -1210,7 +1210,7 @@ un O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Nie O
@@ -1294,7 +1294,7 @@ Unternehmernews O
 Pressemi O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Es O
 wäre O
 doch O
@@ -1310,7 +1310,7 @@ würde O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Darauf O
 hat O
@@ -1329,12 +1329,12 @@ Geschlecht O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nach O
 Infos O
 der O
-TUSERUSER O
+@lmrei O
 ist O
 Ex- O
 #BVB O
@@ -1370,7 +1370,7 @@ wenig O
 sehr O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 New ORG
 Post ORG
@@ -1391,11 +1391,11 @@ Tiwizi PERSON
 Champion MISC
 : O
 - O
-TUSERUSER O
+@lmrei O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ah O
 oki O
 , O
@@ -1426,7 +1426,7 @@ Damen O
 #E32014 O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 War O
 ziemlich O
 gut O
@@ -1449,8 +1449,8 @@ tod O
 Also O
 ja O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Ohne O
 +gute O
 Bildungs- O
@@ -1475,7 +1475,7 @@ gt O
 #Integration O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Türkei LOCATION
 : O
@@ -1489,7 +1489,7 @@ Kommunalwahl O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Verträge O
 am O
@@ -1540,7 +1540,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Realität O
@@ -1549,7 +1549,7 @@ doch O
 völlig O
 überbewertet O
 
-TUSERUSER O
+@lmrei O
 ich O
 muss O
 jetzt O
@@ -1795,7 +1795,7 @@ ist O
 #delpo14 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Gute O
 Vorsätze O
@@ -1809,10 +1809,10 @@ neuen O
 Fitness-Kanal O
 : O
 TURLURL O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Andere O
 Leute O
@@ -1844,7 +1844,7 @@ Jahr O
 noch O
 ….? O
 
-TUSERUSER O
+@lmrei O
 ich O
 bekomm O
 ne O
@@ -1880,7 +1880,7 @@ weiter O
 diskutieren O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Hatte O
 doch O
 gar O
@@ -1965,12 +1965,12 @@ der O
 . O
 Vernatsch O
 Cup O
-TUSERUSER O
+@lmrei O
 ²³{[]}@€ O
 ~ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Merkel PERSON
@@ -1990,7 +1990,7 @@ Internet O
 geholt O
 . O
 
-TUSERUSER O
+@lmrei O
 Weißt O
 du O
 , O
@@ -2013,10 +2013,10 @@ blau O
 ) O
 aus O
 ? O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 guter O
 Nagellack O
 Korrekturstift O
@@ -2076,7 +2076,7 @@ TURLURL O
 #jobs O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wenn O
 du O
@@ -2116,11 +2116,11 @@ Junge LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 deutsche O
-TUSERUSER O
+@lmrei O
 hat O
 um O
 5 O
@@ -2135,7 +2135,7 @@ betreten O
 TURLURL O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ich O
 bin O
 halt O
@@ -2164,7 +2164,7 @@ alles O
 . O
 ;-) O
 
-TUSERUSER O
+@lmrei O
 liefert O
 den O
 geilsten O
@@ -2215,9 +2215,9 @@ Vollpfosten O
 ? O
 " O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Ein O
 Glas O
 Katzenpisse O
@@ -2291,7 +2291,7 @@ out O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Deutscher O
 #Bankentag O
@@ -2306,7 +2306,7 @@ der O
 Banken O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Google-Blogs O
 : O
@@ -2329,11 +2329,11 @@ Aussicht O
 .... O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 Wirtschafts O
 Nachrichten O
 
-TUSERUSER O
+@lmrei O
 sie O
 sollten O
 wissen O
@@ -2377,7 +2377,7 @@ Gabentisch O
 ? O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ^^ O
 fies O
 , O
@@ -2405,7 +2405,7 @@ ueber O
 clipboard O
 macht O
 
-TUSERUSER O
+@lmrei O
 Vermutlich O
 . O
 Und O
@@ -2479,9 +2479,9 @@ Uhr O
 TURLURL O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Für O
 sie O
 ist O
@@ -2499,7 +2499,7 @@ Russland LOCATION
 ( O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Viele O
 Frauen O
@@ -2521,7 +2521,7 @@ Hengst O
 erken O
 … O
 
-TUSERUSER O
+@lmrei O
 fehlt O
 nur O
 noch O
@@ -2563,7 +2563,7 @@ fallen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Manchmal O
 wünsche O
@@ -2616,7 +2616,7 @@ herauszufinden O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Guardiola PERSON
 : O
@@ -2653,7 +2653,7 @@ Truppenrückzug O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Zu O
 den O
@@ -2662,13 +2662,13 @@ Ergebnissen O
 der O
 #Europawahl O
 erklärt O
-TUSERUSER O
+@lmrei O
 : O
 TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Unglaublich O
 . O
@@ -2697,7 +2697,7 @@ http O
 : O
 /TURLURL O
 
-TUSERUSER O
+@lmrei O
 lasst O
 uns O
 das O
@@ -2720,7 +2720,7 @@ ever O
 ;) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 96 O
@@ -2769,7 +2769,7 @@ Woher O
 auch O
 immer O
 die O
-TUSERUSER O
+@lmrei O
 das O
 weiß O
 o.O O
@@ -2789,7 +2789,7 @@ dämlich O
 aus O
 ... O
 
-TUSERUSER O
+@lmrei O
 gleichzeitig O
 empfehle O
 ich O
@@ -2833,7 +2833,7 @@ haben O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Philipp PERSON
 Lahm ORG
@@ -2848,7 +2848,7 @@ DFB-Pokal O
 . O
 #bvbfcb O
 
-TUSERUSER O
+@lmrei O
 Hahaha O
 ! O
 So O
@@ -2862,7 +2862,7 @@ gesehen O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bei O
 Massenpanik O
@@ -2924,7 +2924,7 @@ Zueignung O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #EP2014 O
 Zehn O
@@ -2940,7 +2940,7 @@ sollten O
 ein O
 Plädoyer O
 von O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 Der O
@@ -2958,7 +2958,7 @@ fehlt O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Havarie O
 der O
@@ -2978,7 +2978,7 @@ auflösen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 pech O
 über O
@@ -3019,7 +3019,7 @@ TURLURL O
 #BR O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Schuften O
 , O
@@ -3037,7 +3037,7 @@ in O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Steuerzahlerbund O
@@ -3057,7 +3057,7 @@ TURLURL O
 re O
 … O
 
-TUSERUSER O
+@lmrei O
 dass O
 ich O
 mich O
@@ -3086,7 +3086,7 @@ herunterladen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 JEEEEY O
 💋 O
@@ -3108,7 +3108,7 @@ sehr O
 💕 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Streit O
 um O
@@ -3125,7 +3125,7 @@ bleibt O
 bestehen O
 . O
 TURLURL O
-TUSERUSER O
+@lmrei O
 #H96B O
 … O
 
@@ -3154,7 +3154,7 @@ ab O
 ... O
 #Formel1 O
 
-TUSERUSER O
+@lmrei O
 super O
 , O
 der O
@@ -3166,7 +3166,7 @@ und O
 ein O
 Superbayer O
 
-TUSERUSER O
+@lmrei O
 wie O
 viel O
 Zeit O
@@ -3251,7 +3251,7 @@ Direkter O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Heute O
 ist O
 ein O
@@ -3281,8 +3281,8 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Na O
 was O
 treiben O
@@ -3292,7 +3292,7 @@ wieder O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nachdem O
 die O
@@ -3333,7 +3333,7 @@ sein O
 ? O
 Folgt O
 dem O
-TUSERUSER O
+@lmrei O
 , O
 easy O
 ! O
@@ -3360,7 +3360,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Yoar O
 . O
 Derlei O
@@ -3394,7 +3394,7 @@ km/h O
 .. O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Das O
 Makoto O
 ist O
@@ -3443,7 +3443,7 @@ US-Notenbank LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Berlin LOCATION
 ist O
@@ -3484,7 +3484,7 @@ Urlaubs O
 Unterkünf O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 uiii O
 wie O
 cool O
@@ -3582,7 +3582,7 @@ WhatsApp-Gruppenchat O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #AanisahCLong PERSON
 erscheint O
@@ -3627,15 +3627,15 @@ Emotionen O
 Toller O
 Blog O
 von O
-TUSERUSER O
+@lmrei O
 : O
 TURLURL O
 " O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Genau O
 so O
 würd O
@@ -3656,7 +3656,7 @@ sich O
 leicht O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Oder O
 ganze O
 Flügel O
@@ -3679,7 +3679,7 @@ mit O
 Vatertagsspot O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Die O
 WM O
@@ -3699,7 +3699,7 @@ WM-Laune O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mein O
 Hund O
@@ -3768,7 +3768,7 @@ without O
 love O
 panade O
 . O
-TUSERUSER O
+@lmrei O
 
 Wahrscheinlich O
 habe O
@@ -3791,7 +3791,7 @@ gele O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Keine O
 Urheberrechtsverletzung O
@@ -3831,7 +3831,7 @@ Pressemi O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ein O
 Restaurant O
@@ -3851,14 +3851,14 @@ begeistert O
 . O
 #Kolumne O
 von O
-TUSERUSER O
+@lmrei O
 http O
 :/ O
 /t O
 . O
 co/XTURLURL O
 
-TUSERUSER O
+@lmrei O
 das O
 Problem O
 waren O
@@ -3918,7 +3918,7 @@ Der O
 neue O
 Ava O
 von O
-TUSERUSER O
+@lmrei O
 erinnert O
 an O
 dieses O
@@ -3980,7 +3980,7 @@ Seelen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 FC ORG
 Aarau ORG
@@ -3994,7 +3994,7 @@ ist O
 ausverkauft O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Prima O
 . O
 Endlich O
@@ -4018,7 +4018,7 @@ Weiter O
 so O
 . O
 
-TUSERUSER O
+@lmrei O
 das O
 Mindestmaß O
 ist O
@@ -4032,7 +4032,7 @@ ins O
 Bett O
 ! O
 
-TUSERUSER O
+@lmrei O
 Bei O
 der O
 nächsten O
@@ -4071,7 +4071,7 @@ Südkorea LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 SO O
 FR O
@@ -4092,8 +4092,8 @@ ISTIFANIZI O
 BEKL O
 … O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 nun O
 verstehe O
 ich O
@@ -4153,7 +4153,7 @@ TURLURL O
 : O
 05 O
 
-TUSERUSER O
+@lmrei O
 Lacher O
 : O
 9 O
@@ -4168,7 +4168,7 @@ offenen O
 Richterskala O
 . O
 
-TUSERUSER O
+@lmrei O
 und O
 wo O
 bleibt O
@@ -4184,7 +4184,7 @@ Pfaffe O
 dazu O
 ? O
 
-TUSERUSER O
+@lmrei O
 Nee O
 ich O
 darf O
@@ -4229,7 +4229,7 @@ TURLURL O
 #Androidgames O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Wieso O
@@ -4257,7 +4257,7 @@ gleichzeitig O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wladimir PERSON
 Klitschko PERSON
@@ -4292,7 +4292,7 @@ co O
 . O
 uk O
 
-TUSERUSER O
+@lmrei O
 in O
 Münster LOCATION
 steht O
@@ -4310,9 +4310,9 @@ herum O
 :-/ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 am O
 07 O
 . O
@@ -4381,7 +4381,7 @@ Lesung O
 : O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Toilettenspülungen O
 nach O
 drei O
@@ -4399,7 +4399,7 @@ Hahaha O
 
 Hoffe O
 der O
-TUSERUSER O
+@lmrei O
 hat O
 nicht O
 noch O
@@ -4417,7 +4417,7 @@ von O
 mir O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Unglücklicherweise O
 rebellieren O
@@ -4495,7 +4495,7 @@ und O
 Rebic O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ja O
 . O
 Die O
@@ -4516,7 +4516,7 @@ sstinkst O
 du O
 . O
 
-TUSERUSER O
+@lmrei O
 In O
 D LOCATION
 werden O
@@ -4589,7 +4589,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Google O
 Smart O
@@ -4619,7 +4619,7 @@ Notfällen O
 Beim O
 Gewinnspiel O
 von O
-TUSERUSER O
+@lmrei O
 mitmachen O
 und O
 drei O
@@ -4634,7 +4634,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 „Liegt O
 der O
@@ -4665,13 +4665,13 @@ Wolf PERSON
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 yummy O
 💕 O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 samii PERSON
 habe O
 deine O
@@ -4696,7 +4696,7 @@ warten O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wenn O
 dein O
@@ -4709,7 +4709,7 @@ hat O
 TURLURL O
 
 " O
-TUSERUSER O
+@lmrei O
 : O
 ihr O
 seid O
@@ -4856,7 +4856,7 @@ Wenn O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Unser O
 Superstar O
@@ -4870,7 +4870,7 @@ Song O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Polizei O
 zeichnete O
@@ -4885,7 +4885,7 @@ auf O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Das O
 Jubiläum O
@@ -4898,7 +4898,7 @@ in O
 Hannover LOCATION
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Hach O
 , O
 ihr O
@@ -4927,8 +4927,8 @@ oder O
 Lebwohl O
 !! O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 gern O
 ♥ O
 schon O
@@ -4942,7 +4942,7 @@ v O
 ~ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wenn O
 Sie O
@@ -4979,7 +4979,7 @@ TURLURL O
 ( O
 Quelle O
 : O
-TUSERUSER O
+@lmrei O
 ) O
 
 +++ O
@@ -4999,7 +4999,7 @@ Urlaub O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Feier O
@@ -5037,7 +5037,7 @@ TURLURL O
 
 Einfach O
 mal O
-TUSERUSER O
+@lmrei O
 blocken O
 & O
 amp O
@@ -5065,7 +5065,7 @@ pic O
 — O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 peinliche O
 Vorstellung O
 ... O
@@ -5102,7 +5102,7 @@ arabischen MISC
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Moderne O
 Public O
@@ -5146,7 +5146,7 @@ in O
 Flammen O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Obama PERSON
 bei O
@@ -5179,7 +5179,7 @@ hasse O
 💃 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wolfgang PERSON
 #Sch O
@@ -5333,7 +5333,7 @@ haben O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Vor O
 umstrittenem O
@@ -5492,7 +5492,7 @@ Teil O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 gehören O
@@ -5513,7 +5513,7 @@ kennt O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Sollte O
 Jolina PERSON
@@ -5541,7 +5541,7 @@ Uarghs O
 #GNTM O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Fallschirm O
 öffnete O
@@ -5593,7 +5593,7 @@ zu O
 schnell O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 : O
 Son O
 Creep O
@@ -5610,7 +5610,7 @@ Son O
 Creep O
 ! O
 
-TUSERUSER O
+@lmrei O
 Ich O
 fragte O
 nach O
@@ -5625,7 +5625,7 @@ Fraktion O
 . O
 ;) O
 
-TUSERUSER O
+@lmrei O
 jaaa O
 ich O
 bin O
@@ -5638,7 +5638,7 @@ lt O
 ;3 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 ich O
 finde O
@@ -5657,7 +5657,7 @@ auch O
 #gr O
 öhl O
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ein O
 Therapiegespräch O
@@ -5665,7 +5665,7 @@ mit O
 Mona PERSON
 .… O
 
-TUSERUSER O
+@lmrei O
 manchmal O
 antwortet O
 man O
@@ -5676,7 +5676,7 @@ upps O
 #stegiistderbeste O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nacktradl-Verbot O
 in O
@@ -5692,7 +5692,7 @@ sagen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 mag O
@@ -5708,7 +5708,7 @@ Andren O
 bist O
 . O
 
-TUSERUSER O
+@lmrei O
 Hab O
 ich O
 auch O
@@ -5744,7 +5744,7 @@ auf O
 an O
 . O
 
-TUSERUSER O
+@lmrei O
 ich O
 hab O
 auch O
@@ -5752,7 +5752,7 @@ noch O
 nicht O
 ^^ O
 
-TUSERUSER O
+@lmrei O
 Durch O
 ein O
 Kinderlachen O
@@ -5766,7 +5766,7 @@ Volker PERSON
 Lemke PERSON
 ) O
 
-TUSERUSER O
+@lmrei O
 wieso O
 , O
 die O
@@ -5780,7 +5780,7 @@ super O
 vielleicht O
 #Friesland LOCATION
 ? O
-TUSERUSER O
+@lmrei O
 
 Ich O
 sammelte O
@@ -5799,7 +5799,7 @@ TURLURL O
 #Android O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Lasst O
 uns O
@@ -5873,7 +5873,7 @@ das O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Heute O
 soviele O
@@ -5929,7 +5929,7 @@ auf O
 PVP O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Danke O
 , O
 süsse O
@@ -5944,10 +5944,10 @@ on O
 lol O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 DER O
-TUSERUSER O
+@lmrei O
 HAT O
 1 O
 MIO O
@@ -5991,7 +5991,7 @@ TURLURL O
 #gameinsight O
 
 " O
-TUSERUSER O
+@lmrei O
 : O
 gimme O
 pelase O
@@ -6144,7 +6144,7 @@ dann O
 auf O
 . O
 
-TUSERUSER O
+@lmrei O
 Oh O
 mein O
 Gott O
@@ -6159,7 +6159,7 @@ Sinn O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wenn O
 sie O
@@ -6186,7 +6186,7 @@ alles O
 rich O
 … O
 
-TUSERUSER O
+@lmrei O
 ist O
 mir O
 ne O
@@ -6196,7 +6196,7 @@ auch O
 aufgefallen O
 :( O
 
-TUSERUSER O
+@lmrei O
 Manche O
 Hobbys O
 sind O
@@ -6252,7 +6252,7 @@ der O
 Nachfrage O
 . O
 
-TUSERUSER O
+@lmrei O
 #PIMS O
 hast O
 du O
@@ -6291,7 +6291,7 @@ zuhause O
 . O
 #WM2014 O
 
-TUSERUSER O
+@lmrei O
 Ey O
 genau O
 jetzt O
@@ -6462,7 +6462,7 @@ auch O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 SPD ORG
@@ -6522,7 +6522,7 @@ m O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Komm O
 her O
@@ -6539,7 +6539,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -6557,7 +6557,7 @@ GTA O
 V O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Heute O
 genau O
@@ -6567,7 +6567,7 @@ Jahr O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Gastautoren O
 und O
@@ -6579,12 +6579,12 @@ touristischen O
 Blogs O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 #reiseb O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Lasst O
 mal O
@@ -6645,7 +6645,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Überraschung O
 in O
@@ -6659,7 +6659,7 @@ Mandat O
 nieder O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 T__T O
 vorallem O
 immer O
@@ -6676,7 +6676,7 @@ und O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Schottland LOCATION
 : O
@@ -6696,13 +6696,13 @@ aus O
 . O
 #indyref O
 via O
-TUSERUSER O
+@lmrei O
 http O
 : O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ritzen O
 ist O
@@ -6781,10 +6781,10 @@ machen O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Frau O
-TUSERUSER O
+@lmrei O
 hat O
 ' O
 s O
@@ -6883,7 +6883,7 @@ DA O
 #Schnitzeljagd O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 OMG O
 ich O
@@ -6892,7 +6892,7 @@ gerade O
 ! O
 💝💝💝 O
 RT O
-TUSERUSER O
+@lmrei O
 : O
 OMG O
 ! O
@@ -6915,7 +6915,7 @@ bei O
 angelan O
 … O
 
-TUSERUSER O
+@lmrei O
 Sorry O
 , O
 ich O
@@ -6980,7 +6980,7 @@ Sozialtouristen O
 " O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ja O
 und O
 ? O
@@ -6994,7 +6994,7 @@ englisch O
 ;D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Eine O
 andere O
@@ -7050,15 +7050,15 @@ keiner O
 .. O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 schon O
 gehört O
 ? O
 Demo O
 gegen O
-TUSERUSER O
+@lmrei O
 ! O
 Sa O
 , O
@@ -7123,7 +7123,7 @@ Derwesten O
 de O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 was O
 hälst O
 du O
@@ -7147,7 +7147,7 @@ mich O
 ✌️💕 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 kann O
@@ -7163,7 +7163,7 @@ geil O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bei O
 manchen O
@@ -7189,7 +7189,7 @@ Ged O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Für O
 eine O
@@ -7220,7 +7220,7 @@ Frankreich LOCATION
 : O
 Sozialisten O
 von O
-TUSERUSER O
+@lmrei O
 verlieren O
 gegen O
 Konservative O
@@ -7252,7 +7252,7 @@ voten O
 dass O
 der O
 liebe O
-TUSERUSER O
+@lmrei O
 den O
 Webvideopreis O
 gewinnt O
@@ -7260,7 +7260,7 @@ gewinnt O
 #Freunde O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Schweizer MISC
 Hacker O
@@ -7318,7 +7318,7 @@ IT-Landschaft O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 wollen O
@@ -7340,7 +7340,7 @@ fasst O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Angespannt O
 : O
@@ -7453,7 +7453,7 @@ Zeitung O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Miro PERSON
 #Klose PERSON
@@ -7469,7 +7469,7 @@ auf O
 der O
 #fanhansa O
 #twitterwall O
-TUSERUSER O
+@lmrei O
 http O
 :/ O
 /t O
@@ -7493,7 +7493,7 @@ Bird MISC
 gespielt O
 . O
 
-TUSERUSER O
+@lmrei O
 Guten O
 Morgen O
 Süße O
@@ -7528,7 +7528,7 @@ Barbados LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Zweifel O
 am O
@@ -7588,7 +7588,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Kommt O
 mir O
 ja O
@@ -7634,7 +7634,7 @@ gar O
 nich O
 #esc MISC
 
-TUSERUSER O
+@lmrei O
 Glenn PERSON
 Grothman PERSON
 : O
@@ -7649,7 +7649,7 @@ frei O
 " O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 SPD ORG
 empört O
@@ -7677,7 +7677,7 @@ TURLURL O
 #Gameinsight O
 #Androidgames O
 
-TUSERUSER O
+@lmrei O
 gerne O
 ! O
 Hoffe O
@@ -7730,7 +7730,7 @@ an O
 ^^ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Sex O
 sells O
@@ -7747,7 +7747,7 @@ als O
 ; O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 Alte O
@@ -7773,7 +7773,7 @@ zu O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Dobrindt PERSON
 fordert O
@@ -7795,7 +7795,7 @@ mit O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 haben O
@@ -7847,18 +7847,18 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Klare O
 Ansage O
 von O
-TUSERUSER O
+@lmrei O
 , O
 innenpolit O
 . O
 Sprecher O
 der O
-TUSERUSER O
+@lmrei O
 : O
 #VDS O
 hat O
@@ -7914,7 +7914,7 @@ krass O
 gut O
 . O
 #VoiceKids O
-TUSERUSER O
+@lmrei O
 
 Dabei O
 möchte O
@@ -7931,7 +7931,7 @@ andere O
 sehen O
 . O
 
-TUSERUSER O
+@lmrei O
 da O
 werden O
 sie O
@@ -7947,7 +7947,7 @@ Weswegen O
 Inwiefern O
 ? O
 
-TUSERUSER O
+@lmrei O
 fuck O
 off O
 warum O
@@ -8064,7 +8064,7 @@ wem O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kann O
 ich O
@@ -8114,7 +8114,7 @@ gekommen O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 weiteren O
@@ -8194,7 +8194,7 @@ mal O
 ,... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Du O
 musst O
 den O
@@ -8248,7 +8248,7 @@ mit O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ich O
 vermute O
 es O
@@ -8261,9 +8261,9 @@ werden O
 :( O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 hier O
 ist O
 ein O
@@ -8287,7 +8287,7 @@ für O
 Berufseinsteiger O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 da O
 kannste O
 sein O
@@ -8301,7 +8301,7 @@ grüßen O
 TURLURL O
 
 #Air O
-TUSERUSER O
+@lmrei O
 lässt O
 es O
 krachen O
@@ -8325,7 +8325,7 @@ im O
 . O
 #FCBB_live O
 
-TUSERUSER O
+@lmrei O
 Ich O
 hätte O
 es O
@@ -8381,7 +8381,7 @@ Unterstützung O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Oh O
 . O
 So O
@@ -8439,7 +8439,7 @@ Minuten O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ein O
 Team O
@@ -8554,7 +8554,7 @@ ganzen O
 körper O
 . O
 
-TUSERUSER O
+@lmrei O
 Du O
 verstehst O
 mich O
@@ -8592,7 +8592,7 @@ kaufen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 versorgte O
@@ -8604,9 +8604,9 @@ fallen O
 weich O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 du O
 solltest O
 dringend O
@@ -8638,7 +8638,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Medienzar O
 #Murdoch O
@@ -8656,7 +8656,7 @@ Welt O
 entstehen O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Das O
 ist O
 fancy O
@@ -8774,7 +8774,7 @@ ein O
 Tag O
 . O
 
-TUSERUSER O
+@lmrei O
 ich O
 weiß O
 es O
@@ -8841,7 +8841,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Otto PERSON
 Schamirski PERSON
@@ -8860,9 +8860,9 @@ von LOCATION
 Dir O
 ! O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 boah O
 hört O
 mir O
@@ -8922,7 +8922,7 @@ sind O
 !!! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Maggi MISC
 ? O
@@ -8934,7 +8934,7 @@ Maggi O
 Trip O
 #Lanz LOCATION
 
-TUSERUSER O
+@lmrei O
 Heucheln O
 ist O
 so O
@@ -8959,8 +8959,8 @@ Gewehr O
 hält O
 .. O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 richtig O
 . O
 Hat O
@@ -8979,8 +8979,8 @@ Lahm PERSON
 nach O
 links O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Sam PERSON
 , O
 lassen O
@@ -9007,7 +9007,7 @@ ab O
 gelten O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ich O
 lese O
 nur O
@@ -9031,7 +9031,7 @@ lang O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Danke O
 an O
@@ -9049,12 +9049,12 @@ zurück O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ah O
 !!! O
 “ O
-TUSERUSER O
+@lmrei O
 : O
 IG PERSON
 hat O
@@ -9096,7 +9096,7 @@ Künstlerin O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Oh O
 Mann O
@@ -9110,7 +9110,7 @@ mit O
 Erektionsstörung O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Tiere O
 und O
@@ -9123,7 +9123,7 @@ gut O
 #WorldCup O
 #wm2014 O
 
-TUSERUSER O
+@lmrei O
 Wie O
 lieb O
 von O
@@ -9170,7 +9170,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 So O
 was O
 gehört O
@@ -9214,7 +9214,7 @@ sicher O
 beschimpft O
 ._. O
 
-TUSERUSER O
+@lmrei O
 Kopf O
 hoch O
 ! O
@@ -9226,7 +9226,7 @@ los O
 X O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Prügel-Video O
 : O
@@ -9239,7 +9239,7 @@ Facebook MISC
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Uiii O
 :D O
@@ -9290,7 +9290,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Unsere O
 Reporterin O
@@ -9343,7 +9343,7 @@ weg O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Besuch O
 in O
@@ -9356,9 +9356,9 @@ Medien O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Dankeeee O
 , O
 nach O
@@ -9413,9 +9413,9 @@ Geheul O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Der O
 muß O
 wissen O
@@ -9492,8 +9492,8 @@ euch O
 geteilt O
 :D O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 therapie O
 ist O
 gut O
@@ -9550,9 +9550,9 @@ Sonntag O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 DEUTSCHE O
 UNTEN O
 . O
@@ -9571,7 +9571,7 @@ HIER O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wer O
 hätte O
@@ -9593,9 +9593,9 @@ besiegen O
 TURLURL O
 viTUSERUSER O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Ich O
 habe O
 ja O
@@ -9616,10 +9616,10 @@ stutzig O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 . O
-TUSERUSER O
+@lmrei O
 erstmals O
 für O
 individuelle O
@@ -9708,7 +9708,7 @@ Tormann-Markt O
 #oefb O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Slomka O
 : O
@@ -9783,7 +9783,7 @@ also O
 nicht O
 . O
 
-TUSERUSER O
+@lmrei O
 wir O
 kennen O
 uns O
@@ -9795,7 +9795,7 @@ dm O
 auf O
 fb O
 
-TUSERUSER O
+@lmrei O
 das O
 Gefühl O
 kenn O
@@ -9836,7 +9836,7 @@ ist O
 gt O
 ;:(( O
 
-TUSERUSER O
+@lmrei O
 Hier O
 ist O
 zudem O
@@ -9847,7 +9847,7 @@ Oberbürgermeisterwahl O
 . O
 
 Der O
-TUSERUSER O
+@lmrei O
 hat O
 #heartbleed O
 exploited O
@@ -9866,7 +9866,7 @@ beantragt O
 haben O
 . O
 
-TUSERUSER O
+@lmrei O
 das O
 ist O
 immer O
@@ -9895,7 +9895,7 @@ Angst O
 TURLURL O
 #okru O
 
-TUSERUSER O
+@lmrei O
 für O
 was O
 wird O
@@ -10038,9 +10038,9 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 glaub O
 ich O
 auch O
@@ -10112,7 +10112,7 @@ auch O
 wirklich O
 eingehalten O
 werden O
-TUSERUSER O
+@lmrei O
 ? O
 #projektmanagement O
 TURLURL O
@@ -10160,7 +10160,7 @@ Sehr O
 professionell O
 . O
 
-TUSERUSER O
+@lmrei O
 Q_Q O
 * O
 patpat O
@@ -10198,7 +10198,7 @@ können O
 ? O
 🙌 O
 #asklamiya O
-TUSERUSER O
+@lmrei O
 
 Statt O
 Ferienwohnung O
@@ -10323,7 +10323,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -10450,7 +10450,7 @@ halt O
 Catherine PERSON
 ! O
 
-TUSERUSER O
+@lmrei O
 also O
 ich O
 hab’sIntro O
@@ -10511,14 +10511,14 @@ immer O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -10533,7 +10533,7 @@ Wa O
 … O
 
 Danke O
-TUSERUSER O
+@lmrei O
 - O
 es O
 war O
@@ -10564,7 +10564,7 @@ TURLURL O
 #Androidgames O
 #Android MISC
 
-TUSERUSER O
+@lmrei O
 als O
 Typ O
 im O
@@ -10579,7 +10579,7 @@ Tag O
 😂 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Guardiola PERSON
 : O
@@ -10611,7 +10611,7 @@ http O
 :// O
 … O
 
-TUSERUSER O
+@lmrei O
 schönen O
 guten O
 Morgen O
@@ -10645,7 +10645,7 @@ bekannten O
 Finanzbroker O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 gerade O
 gelesen O
 .. O
@@ -10711,7 +10711,7 @@ ersteigert O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Sorry O
 für O
@@ -10760,7 +10760,7 @@ others O
 ) O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ge O
 ? O
 In O
@@ -10777,7 +10777,7 @@ Gesicht O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Rayne MISC
 Longboards MISC
@@ -10801,7 +10801,7 @@ http O
 :/ O
 /tTURLURL O
 
-TUSERUSER O
+@lmrei O
 ach O
 trollchen O
 ... O
@@ -10813,7 +10813,7 @@ selbst O
 ! O
 
 Die O
-TUSERUSER O
+@lmrei O
 versucht O
 grad O
 , O
@@ -10847,7 +10847,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Heute O
 schon O
@@ -10870,7 +10870,7 @@ Tweet O
 ;) O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Ticker O
 : O
@@ -10892,7 +10892,7 @@ Rom ORG
 ... O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 #darlehen O
 #gebuehr O
@@ -10920,7 +10920,7 @@ Matratz O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Jugoslawisches O
 Szenario O
@@ -10942,7 +10942,7 @@ aus O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Dank O
 Essen O
@@ -10953,7 +10953,7 @@ langweilig O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Cupfinal O
 in O
@@ -10986,7 +10986,7 @@ Pflegeimmobilien O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Junger O
 Mann O
@@ -11002,14 +11002,14 @@ schreibt O
 Reinschauen O
 lohnt O
 sich O
-TUSERUSER O
+@lmrei O
 
 Ich O
 empfange O
 Bilder O
 !!!!! O
 #packmas O
-TUSERUSER O
+@lmrei O
 !!! O
 Jetzt O
 auf O
@@ -11019,7 +11019,7 @@ und O
 siegen O
 ! O
 
-TUSERUSER O
+@lmrei O
 ah O
 ok O
 , O
@@ -11106,7 +11106,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Spannender O
 Tag O
@@ -11127,7 +11127,7 @@ Roten O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Ich O
@@ -11142,7 +11142,7 @@ MORGEN O
 " O
 #Lieblingsfilmzitate O
 
-TUSERUSER O
+@lmrei O
 da O
 war O
 ja O
@@ -11199,7 +11199,7 @@ gesehen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Todesstrafe O
 in O
@@ -11273,7 +11273,7 @@ TURLURL O
 #Gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Heute O
 schon O
@@ -11356,7 +11356,7 @@ de O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Enthüllungsjournalist O
 : O
@@ -11370,7 +11370,7 @@ McDonald LOCATION
 s O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Von O
 der O
@@ -11383,7 +11383,7 @@ della LOCATION
 Pescaia LOCATION
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 #Warehousedeals O
 von O
@@ -11443,7 +11443,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -11477,7 +11477,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Veranstaltungshinweis O
 : O
@@ -11593,7 +11593,7 @@ heiß O
 ! O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Analyst O
 : O
@@ -11608,7 +11608,7 @@ Fingerabdrucksensor O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Dem O
 Idioten O
@@ -11635,7 +11635,7 @@ Sek O
 Seit O
 … O
 
-TUSERUSER O
+@lmrei O
 Ach O
 stimmt O
 du O
@@ -11669,7 +11669,7 @@ Nerdgirls O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 DFB-Pokalsieger O
 : O
@@ -11753,8 +11753,8 @@ Gabriele LOCATION
 Schilling PERSON
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 muhaha O
 das O
 sind O
@@ -11798,7 +11798,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Europaskeptiker O
 im O
@@ -11875,7 +11875,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 * O
 bettdecke O
 hochheb O
@@ -11888,7 +11888,7 @@ lass O
 nehmen O
 wir O
 die O
-TUSERUSER O
+@lmrei O
 mit O
 ? O
 
@@ -11904,7 +11904,7 @@ bis O
 Uhr O
 gesperrt O
 
-TUSERUSER O
+@lmrei O
 ich O
 glaube O
 nicht O
@@ -11954,9 +11954,9 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Stimmt O
 nicht O
 ! O
@@ -11982,8 +11982,8 @@ auf O
 Golfbasis O
 ! O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 haende O
 waschen O
 nach O
@@ -12002,7 +12002,7 @@ schweizer O
 alp LOCATION
 ! O
 
-TUSERUSER O
+@lmrei O
 und O
 der O
 Scheinehund O
@@ -12032,7 +12032,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -12064,7 +12064,7 @@ Juli O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Anette PERSON
 Dowideit PERSON
@@ -12079,7 +12079,7 @@ der O
 #Warentest O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 #WrestleMania O
 triple O
@@ -12093,7 +12093,7 @@ von O
 ausgeliehen O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mettwurst O
 und O
@@ -12112,7 +12112,7 @@ sind O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Mhm O
 …. O
 habe O
@@ -12198,7 +12198,7 @@ so O
 mega O
 geil O
 
-TUSERUSER O
+@lmrei O
 habt O
 ihr O
 eigentlich O
@@ -12211,7 +12211,7 @@ geplant O
 :-) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Geschäftsidee O
 : O
@@ -12266,7 +12266,7 @@ den O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Timo PERSON
 trifft O
@@ -12324,7 +12324,7 @@ gefickt O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 #TREUHANDANSTALT O
 TURLURL O
 ( O
@@ -12341,7 +12341,7 @@ von O
 1994 O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ich O
 würde O
 es O
@@ -12420,7 +12420,7 @@ Kostprobe O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hauptsache O
 telefoniere O
@@ -12457,7 +12457,7 @@ Zeitung MISC
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 größte O
@@ -12477,7 +12477,7 @@ liebt O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 RETWEET O
 ORGIE O
@@ -12532,7 +12532,7 @@ rechtswidrig O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Facharbeiteradel O
@@ -12593,13 +12593,13 @@ zu O
 60 O
 Prozent O
 ! O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 Brutales O
 intro O
 von O
-TUSERUSER O
+@lmrei O
 album O
 wird O
 gekauft O
@@ -12614,7 +12614,7 @@ Visuals O
 ]…: O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ich O
 habe O
 muskelkater O
@@ -12641,7 +12641,7 @@ nich O
 wissen O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 LEUTE O
 ! O
@@ -12705,7 +12705,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Jetzt O
 redet O
@@ -12726,7 +12726,7 @@ chlöpft O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Das O
 FJG O
@@ -12736,8 +12736,8 @@ schüler O
 ermäßigt O
 ) O
 mit O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 in O
 der O
 AstorFilmlounge O
@@ -12783,7 +12783,7 @@ verhindern O
 will O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ich O
 link O
 jetzt O
@@ -12795,7 +12795,7 @@ Artikel O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ich O
 habe O
 einen O
@@ -12812,7 +12812,7 @@ schon O
 mal O
 . O
 
-TUSERUSER O
+@lmrei O
 alles O
 . O
 Wir O
@@ -12839,7 +12839,7 @@ geht O
 es O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Lösung O
 : O
@@ -12857,8 +12857,8 @@ nach O
 Hause O
 . O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 ich O
 kanns O
 toppen O
@@ -12946,7 +12946,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 EIN O
 TRAGISCHER O
@@ -12959,12 +12959,12 @@ Wheels O
 : O
 TURLURL O
 über O
-TUSERUSER O
+@lmrei O
 
 Vielen O
 Dank O
 an O
-TUSERUSER O
+@lmrei O
 für O
 die O
 Empfehlung O
@@ -13005,7 +13005,7 @@ Sehr O
 effektiv O
 . O
 
-TUSERUSER O
+@lmrei O
 dann O
 kann O
 ich O
@@ -13038,7 +13038,7 @@ verstanden O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Wahlkommission O
@@ -13062,7 +13062,7 @@ W O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Elf O
 Tipps O
@@ -13076,10 +13076,10 @@ TURLURL O
 #it O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bei O
-TUSERUSER O
+@lmrei O
 kündigt O
 Gesundheitsminister O
 Gröhe PERSON
@@ -13131,7 +13131,7 @@ auf O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Streit O
 um O
@@ -13159,9 +13159,9 @@ ein O
 Bug O
 , O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Nein O
 , O
 die O
@@ -13198,7 +13198,7 @@ ein O
 #bahnbilderde O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 : O
 Sportlicher O
 #Renzi PERSON
@@ -13235,8 +13235,8 @@ TURLURL O
 ♥ O
 mode O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 #is O
 #ja O
 #auch O
@@ -13251,7 +13251,7 @@ ja O
 oder O
 so O
 
-TUSERUSER O
+@lmrei O
 Ich O
 hab O
 keine O
@@ -13295,7 +13295,7 @@ das O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ja O
 habe O
 ich O
@@ -13310,7 +13310,7 @@ schicken O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Deutschtest O
@@ -13394,7 +13394,7 @@ TURLURL O
 #online O
 #marketing O
 
-TUSERUSER O
+@lmrei O
 Aber O
 5 O
 € O
@@ -13433,7 +13433,7 @@ OPTIFEX ORG
 GmbH ORG
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Schade O
 ich O
 hatte O
@@ -13448,8 +13448,8 @@ die O
 Hauptrollen O
 begeistert O
 ... O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 
 Ich O
 habe O
@@ -13471,13 +13471,13 @@ TURLURL O
 
 #Popkolumne O
 : O
-TUSERUSER O
+@lmrei O
 klingt O
 peinlich O
 nach O
 2005 O
 , O
-TUSERUSER O
+@lmrei O
 kriegt O
 Ärger O
 wegen O
@@ -13569,11 +13569,11 @@ ihrem O
 Ideal O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 #karriere O
 #gleichberechtigung O
 
-TUSERUSER O
+@lmrei O
 , O
 250 O
 Favs O
@@ -13626,7 +13626,7 @@ gehabt O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Zahlungsverkehr O
 : O
@@ -13658,7 +13658,7 @@ auf O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Schweigen O
 ist O
@@ -13699,7 +13699,7 @@ an O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ja O
 !!! O
@@ -13738,7 +13738,7 @@ TURLURL O
 #Wirtschaft O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mehr O
 Infos O
@@ -13774,7 +13774,7 @@ Seehafen LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hab O
 jetzt O
@@ -13875,7 +13875,7 @@ geschaut O
 werden O
 ... O
 
-TUSERUSER O
+@lmrei O
 sagen O
 wirs O
 so O
@@ -13908,7 +13908,7 @@ Gerichtssaal O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 drittmächtigste O
@@ -13918,7 +13918,7 @@ Staat O
 als O
 Prügelknabe O
 : O
-TUSERUSER O
+@lmrei O
 über O
 die O
 Zukunft O
@@ -13944,7 +13944,7 @@ sie O
 besser O
 als O
 Bochum LOCATION
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 ich O
@@ -14014,7 +14014,7 @@ Englisch MISC
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 morgen O
 fange O
@@ -14029,8 +14029,8 @@ wird O
 super O
 . O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Es O
 wird O
 -verzweifelt- O
@@ -14071,7 +14071,7 @@ Woche O
 jeweils O
 ... O
 
-TUSERUSER O
+@lmrei O
 über O
 ein O
 Refollow O
@@ -14111,7 +14111,7 @@ Lieblingsrennen O
 :) O
 #Formel1 O
 
-TUSERUSER O
+@lmrei O
 wobei O
 Boateng PERSON
 auch O
@@ -14136,7 +14136,7 @@ Interviews O
 ) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Lächelnd O
 in O
@@ -14162,7 +14162,7 @@ letzten O
 Mal O
 ... O
 
-TUSERUSER O
+@lmrei O
 Ich O
 hätte O
 gerne O
@@ -14203,7 +14203,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -14258,7 +14258,7 @@ Feinkost O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Skandal O
 : O
@@ -14323,7 +14323,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 sonst O
 würde O
 ichs O
@@ -14377,7 +14377,7 @@ derartige O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Assad PERSON
 wird O
 es O
@@ -14392,7 +14392,7 @@ bekämpfen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Alle O
 die O
@@ -14419,9 +14419,9 @@ von O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Yep O
 . O
 Und O
@@ -14448,7 +14448,7 @@ p O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Rubel O
 : O
@@ -14461,7 +14461,7 @@ Finanzkrise O
 zu O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 das O
 müssen O
 die O
@@ -14505,7 +14505,7 @@ Style O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 TURLURL O
 The MISC
@@ -14564,7 +14564,7 @@ kacken O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 würden O
@@ -14590,7 +14590,7 @@ wichtig O
 aber O
 . O
 
-TUSERUSER O
+@lmrei O
 wenn O
 ich O
 mal O
@@ -14621,7 +14621,7 @@ T-Online O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 15 O
 Minuten O
@@ -14659,7 +14659,7 @@ Wasserpielzeug O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Boko-Haram-Terror O
 : O
@@ -14692,7 +14692,7 @@ Berlin LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Jungs O
@@ -14728,7 +14728,7 @@ Familie O
 #domian O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 1 O
 , O
@@ -14745,7 +14745,7 @@ Angestellten O
 : O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ich O
 liebe O
 den O
@@ -14829,7 +14829,7 @@ TURLURL O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Charlie PERSON
 Chaplin PERSON
@@ -14838,8 +14838,8 @@ Albert PERSON
 Einstein PERSON
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 und O
 sicher O
 weiß O
@@ -14886,7 +14886,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Israels MISC
 Ex-Regierungschef O
@@ -14899,7 +14899,7 @@ Haft O
 verurteilt O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 In O
 die O
 Türkei LOCATION
@@ -15033,7 +15033,7 @@ ein O
 Ende O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Immer O
 schön O
 in O
@@ -15102,7 +15102,7 @@ TURLURL O
 #Androidgames O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 HEUTE O
 um O
@@ -15158,7 +15158,7 @@ Vierter O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Portugiesen MISC
@@ -15169,7 +15169,7 @@ Beine O
 trainiert O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Und O
 der O
@@ -15193,7 +15193,7 @@ gleich O
 auf O
 … O
 
-TUSERUSER O
+@lmrei O
 * O
 Buchstabensuppe O
 rüberschieb O
@@ -15232,9 +15232,9 @@ gesund O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 #SpiegelOnline ORG
 berichtet O
 : O
@@ -15268,7 +15268,7 @@ für O
 Zuspätkommer O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Schon O
 an O
 eine O
@@ -15285,7 +15285,7 @@ TURLURL O
 #zahnarzt O
 #gutschein O
 
-TUSERUSER O
+@lmrei O
 coole O
 menschen O
 sind O
@@ -15317,13 +15317,13 @@ bekommen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mein O
 Social O
 Media O
 Manager O
-TUSERUSER O
+@lmrei O
 wollte O
 zur O
 Republica O
@@ -15342,9 +15342,9 @@ Pustekuc O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Beim O
 #ViennaCityMarathon O
 hat O
@@ -15390,7 +15390,7 @@ Jahr O
 auf O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 wow O
 , O
 da O
@@ -15450,7 +15450,7 @@ Provisions O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Netflix ORG
 ist O
@@ -15483,7 +15483,7 @@ Gostei LOCATION
 de O
 um O
 vídeo O
-TUSERUSER O
+@lmrei O
 TURLURL O
 Rhein LOCATION
 - O
@@ -15493,7 +15493,7 @@ der O
 Trilogie O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Huiui O
 , O
@@ -15522,7 +15522,7 @@ auf O
 httpTURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Für O
 die O
@@ -15559,7 +15559,7 @@ Media O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 FCB O
@@ -15585,7 +15585,7 @@ http O
 /tTURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Armutsstaat O
@@ -15602,7 +15602,7 @@ Showdown O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 +++ O
 Ukraine LOCATION
@@ -15621,7 +15621,7 @@ Truppenrückzug O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 die O
 zeit O
@@ -15657,7 +15657,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 AKW-Altlasten O
 : O
@@ -15672,7 +15672,7 @@ einfach O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Datenschutz O
 ist O
@@ -15688,11 +15688,11 @@ verankert O
 . O
 #Piraten O
 RT O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 das O
 " O
@@ -15720,7 +15720,7 @@ go O
 get O
 ! O
 
-TUSERUSER O
+@lmrei O
 weiß O
 ich O
 doch O
@@ -15736,7 +15736,7 @@ abnehmen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Richtige O
 Männer O
@@ -15826,7 +15826,7 @@ geholt O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 hatte O
@@ -15861,7 +15861,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wer O
 Anderen O
@@ -15879,7 +15879,7 @@ Last O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Pr O
 äpositionen O
@@ -16083,7 +16083,7 @@ offene O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Du O
 hast O
 auf O
@@ -16112,7 +16112,7 @@ aus O
 der O
 Unterwelt O
 
-TUSERUSER O
+@lmrei O
 Freut O
 mich O
 :) O
@@ -16124,7 +16124,7 @@ noch O
 folgen O
 ! O
 
-TUSERUSER O
+@lmrei O
 sonst O
 wäre O
 es O
@@ -16175,7 +16175,7 @@ direkter O
 ,... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Bitte O
 kommen O
 Sie O
@@ -16185,7 +16185,7 @@ nackt O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ostukraine LOCATION
 : O
@@ -16197,7 +16197,7 @@ Separatisten O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Gewinne O
 eine O
@@ -16242,7 +16242,7 @@ geschafft O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 hören O
@@ -16268,7 +16268,7 @@ aus O
 #gewitter O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wieder O
 wirbt O
@@ -16296,7 +16296,7 @@ http O
 cTURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hier O
 reden O
@@ -16328,7 +16328,7 @@ Transparenz O
 #Kris O
 … O
 
-TUSERUSER O
+@lmrei O
 Da O
 haste O
 auch O
@@ -16352,7 +16352,7 @@ Ablenkung O
 :D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hätte O
 nie O
@@ -16392,9 +16392,9 @@ out O
 TURLURL O
 Stories O
 via O
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 
 F O
 steht O
@@ -16447,9 +16447,9 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Tja-die O
 schleichende O
 Progression O
@@ -16482,7 +16482,7 @@ USA LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ihr O
 kennt O
@@ -16506,7 +16506,7 @@ http O
 /TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mit O
 Humor O
@@ -16527,7 +16527,7 @@ reagiert O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 die O
 Geheimnisse O
 hinter O
@@ -16588,7 +16588,7 @@ pas O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 letzte O
@@ -16657,7 +16657,7 @@ einen O
 Migrationshintergrund O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 So O
 oder O
 so O
@@ -16692,7 +16692,7 @@ JUVE ORG
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Spanische MISC
 Politikerin O
@@ -16794,7 +16794,7 @@ Sie O
 hier O
 : O
 
-TUSERUSER O
+@lmrei O
 Die O
 Flasche O
 ist O
@@ -16834,7 +16834,7 @@ TURLURL O
 
 Ich O
 halte O
-TUSERUSER O
+@lmrei O
 für O
 einen O
 der O
@@ -16866,7 +16866,7 @@ Webseiten O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ist O
 Ihr O
 Geschäft O
@@ -16936,7 +16936,7 @@ der O
 Türkei LOCATION
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 bei O
 uns O
 hat O
@@ -16965,7 +16965,7 @@ german)(720p O
 ): O
 TURLURL O
 über O
-TUSERUSER O
+@lmrei O
 
 Gleich O
 erstmal O
@@ -17038,7 +17038,7 @@ Backen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 carosinder O
 - O
@@ -17055,7 +17055,7 @@ sehr O
 ungewohn O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ich O
 fahre O
 in O
@@ -17084,7 +17084,7 @@ TURLURL O
 #Gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Erneuerbare O
 Energien O
@@ -17098,12 +17098,12 @@ der O
 Verbraucher O
 , O
 schreibt O
-TUSERUSER O
+@lmrei O
 . O
 #EEG O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Je O
 nach O
 dem O
@@ -17122,7 +17122,7 @@ also O
 👍😎👍 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 bin O
@@ -17160,7 +17160,7 @@ stärken O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 ESC-Finale MISC
 2014 O
@@ -17175,7 +17175,7 @@ noch O
 Wurst O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 streich O
 meinen O
 letzten O
@@ -17193,7 +17193,7 @@ Wollmilchsau ORG
 GmbH O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 21 O
 . O
@@ -17231,7 +17231,7 @@ http O
 co/rbUFEAO O
 … O
 
-TUSERUSER O
+@lmrei O
 sag O
 mal O
 , O
@@ -17242,7 +17242,7 @@ Podcasts O
 Hab O
 Dich O
 bei O
-TUSERUSER O
+@lmrei O
 gehört O
 und O
 dachte O
@@ -17283,7 +17283,7 @@ schockiert O
 Ein O
 Treffen O
 mit O
-TUSERUSER O
+@lmrei O
 , O
 der O
 umstrittensten O
@@ -17297,7 +17297,7 @@ Contests MISC
 TURLURL O
 #ESC O
 
-TUSERUSER O
+@lmrei O
 Nein O
 , O
 sie O
@@ -17314,7 +17314,7 @@ jeder O
 Fluggesellschaft O
 ! O
 
-TUSERUSER O
+@lmrei O
 Leute O
 , O
 alle O
@@ -17424,7 +17424,7 @@ Liebe O
 lt O
 ;3 O
 
-TUSERUSER O
+@lmrei O
 warst O
 Du O
 das O
@@ -17503,9 +17503,9 @@ durch O
 ═╝ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 wie O
 lange O
 willst O
@@ -17542,7 +17542,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hübner PERSON
 : O
@@ -17568,13 +17568,13 @@ fest O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bei O
 #BVBFCB ORG
 wäre O
 der O
-TUSERUSER O
+@lmrei O
 bezwingbar O
 gewesen O
 . O
@@ -17583,7 +17583,7 @@ beruhigende O
 Feststellung O
 , O
 findet O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 Mein O
@@ -17635,7 +17635,7 @@ TURLURL O
 #bot O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Italiens MISC
 Präsident O
@@ -17675,7 +17675,7 @@ nimmt O
 ? O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Gerne O
 senden O
 wir O
@@ -17687,7 +17687,7 @@ E-Mail-Adresse O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bergwerks-Unglück O
 in O
@@ -17725,7 +17725,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Verurteilt O
 mich O
@@ -17737,7 +17737,7 @@ Samstag O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 PR-Agentur O
 , O
@@ -17811,7 +17811,7 @@ läuft O
 ; O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 * O
 sieht O
 dich O
@@ -17829,7 +17829,7 @@ DA O
 anspring O
 * O
 
-TUSERUSER O
+@lmrei O
 musst O
 mich O
 zurückhalten&amp O
@@ -17865,7 +17865,7 @@ Schneeaffen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Reich O
 ist O
@@ -17900,7 +17900,7 @@ Entwicklung O
 Produk O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 haha O
 ja O
 . O
@@ -17913,7 +17913,7 @@ sein O
 :D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hello O
 ! O
@@ -17952,7 +17952,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 oder O
 einfach O
 ans O
@@ -17965,7 +17965,7 @@ vollkommen O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Stellt O
 euch O
@@ -18020,7 +18020,7 @@ zehn O
 Eissorten O
 . O
 
-TUSERUSER O
+@lmrei O
 Seit O
 wann O
 arbeitest O
@@ -18030,7 +18030,7 @@ Facebook ORG
 :D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hast O
 du O
@@ -18093,7 +18093,7 @@ TURLURL O
 #Androidgames O
 #Gameinsight O
 
-TUSERUSER O
+@lmrei O
 erst O
 tuste O
 mir O
@@ -18104,7 +18104,7 @@ micht O
 entfolgen O
 . O
 
-TUSERUSER O
+@lmrei O
 Das O
 ist O
 ja O
@@ -18141,7 +18141,7 @@ das O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Was O
 ich O
@@ -18214,7 +18214,7 @@ TURLURL O
 #Android MISC
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Da O
 bauen O
@@ -18288,7 +18288,7 @@ einen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Noch O
 Jemand O
@@ -18317,7 +18317,7 @@ co/0KcZ O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wenn O
 Sie O
@@ -18338,7 +18338,7 @@ meine O
 Schwiegermutter O
 . O
 
-TUSERUSER O
+@lmrei O
 Ok O
 muss O
 ich O
@@ -18354,7 +18354,7 @@ bin O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Vor O
 30 O
@@ -18371,9 +18371,9 @@ Zeiten O
 ! O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 spitzen O
 Spiel O
 gestern O
@@ -18385,13 +18385,13 @@ gejubelt O
 👏🙏👌😊 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Türkei LOCATION
 tritt O
 wegen O
-TUSERUSER O
+@lmrei O
 gegen O
 den O
 #ESC ORG
@@ -18410,7 +18410,7 @@ mitmachen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Originales O
 Gemälde O
@@ -18452,7 +18452,7 @@ Stadthalle LOCATION
 Karlsruhe LOCATION
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Loslassen O
 mit O
@@ -18472,7 +18472,7 @@ schwer O
 entscheiden O
 . O
 
-TUSERUSER O
+@lmrei O
 Danke O
 Speclratus O
 ! O
@@ -18492,7 +18492,7 @@ Wochenende O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Gegen O
 Denglisch MISC
@@ -18508,7 +18508,7 @@ retten O
 Mein O
 Interview O
 mit O
-TUSERUSER O
+@lmrei O
 http O
 :/ O
 /t O
@@ -18547,7 +18547,7 @@ TURLURL O
 #Android MISC
 #Androidgames O
 
-TUSERUSER O
+@lmrei O
 Ja O
 , O
 geiler O
@@ -18628,7 +18628,7 @@ aus O
 : O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ic O
 soll O
 eine O
@@ -18637,7 +18637,7 @@ starten O
 ? O
 :p O
 
-TUSERUSER O
+@lmrei O
 wenn O
 Merkel PERSON
 einen O
@@ -18721,7 +18721,7 @@ spielzeug O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Studien O
 zeigen O
@@ -18757,7 +18757,7 @@ Beste O
 ♥ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Streik O
 mal O
@@ -18798,7 +18798,7 @@ an O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 so O
 in O
 Richtung O
@@ -18845,7 +18845,7 @@ umso O
 mehr O
 , O
 schreibt O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 1 O
@@ -18876,9 +18876,9 @@ Donn O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 #SpiegelOnline ORG
 berichtet O
 : O
@@ -18929,7 +18929,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 FINAL O
 : O
@@ -18993,7 +18993,7 @@ cool O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Immobile PERSON
 und O
@@ -19087,7 +19087,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mögliche O
 Namen O
@@ -19115,7 +19115,7 @@ Effen O
 " O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Teure O
 Vorsorge O
@@ -19129,7 +19129,7 @@ Menschen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 ( O
 1/2 O
@@ -19155,10 +19155,10 @@ Donnerstag O
 Uhr O
 ) O
 im O
-TUSERUSER O
+@lmrei O
 vs O
 . O
-TUSERUSER O
+@lmrei O
 … O
 
 Ich O
@@ -19200,7 +19200,7 @@ zusätzlichen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Pfarrer O
 singt O
@@ -19224,7 +19224,7 @@ ein O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Marco PERSON
 , O
@@ -19246,7 +19246,7 @@ a O
 : O
 1 O
 ! O
-TUSERUSER O
+@lmrei O
 Schade O
 , O
 dass O
@@ -19312,7 +19312,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Protestantismus O
 : O
@@ -19358,7 +19358,7 @@ KOSTENLOS O
 TURLURL O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Eine O
 bessere O
 Info O
@@ -19377,7 +19377,7 @@ TURLURL O
 #Video O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Red MISC
 Lighthouse MISC
@@ -19454,7 +19454,7 @@ hier O
 schon O
 ! O
 
-TUSERUSER O
+@lmrei O
 Ja O
 , O
 Drogenhandel O
@@ -19475,8 +19475,8 @@ schon O
 seit O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 oder O
 steht O
 das O
@@ -19491,20 +19491,20 @@ vorbei O
 #zib2 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hamit PERSON
 Altıntop PERSON
 Twitter MISC
 ' O
 da O
-TUSERUSER O
+@lmrei O
 / O
 Herzlich O
 Willkommen O
 bei O
 Twitter MISC
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 Kennt O
@@ -19533,7 +19533,7 @@ psychpatischer O
 # O
 Arbeit O
 
-TUSERUSER O
+@lmrei O
 jaja- O
 wer O
 das O
@@ -19568,7 +19568,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -19596,7 +19596,7 @@ steht O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Homosexualität O
 als O
@@ -19609,7 +19609,7 @@ Krankheit O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 In O
 Italien LOCATION
@@ -19731,7 +19731,7 @@ Sagehorn LOCATION
 die O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Warum O
 kann O
@@ -19744,7 +19744,7 @@ sein O
 😭 O
 #ECHO2014 O
 
-TUSERUSER O
+@lmrei O
 eigentlich O
 war O
 es O
@@ -19754,7 +19754,7 @@ nie O
 ganz O
 😂 O
 
-TUSERUSER O
+@lmrei O
 aut O
 Livecheck O
 TURLURL O
@@ -19832,7 +19832,7 @@ TURLURL O
 #darum O
 #ihn O
 
-TUSERUSER O
+@lmrei O
 Mir O
 ist O
 so O
@@ -19843,7 +19843,7 @@ langweilig O
 :/ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Dem O
@@ -19892,7 +19892,7 @@ trotzdem O
 immer O
 bei O
 den O
-TUSERUSER O
+@lmrei O
 !!! O
 #nurderHEC O
 
@@ -19931,10 +19931,10 @@ Webvideopreis O
 TURLURL O
 #WVP14 O
 via O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 20 O
 Minuten O
@@ -19961,7 +19961,7 @@ Fummel O
 #letsdance O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hund O
 oder O
@@ -19974,7 +19974,7 @@ SZ-Magazin O
 morgen O
 in O
 der O
-TUSERUSER O
+@lmrei O
 , O
 heute O
 ab O
@@ -19998,7 +19998,7 @@ geb O
 ichn O
 fick O
 
-TUSERUSER O
+@lmrei O
 das O
 könnten O
 wir O
@@ -20011,7 +20011,7 @@ Mauer MISC
 😂👊 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Aliens O
 haben O
@@ -20034,7 +20034,7 @@ da O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wahnsinn O
 erscheint O
@@ -20045,7 +20045,7 @@ in O
 Deutschland LOCATION
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Nur O
 dass O
 es O
@@ -20079,7 +20079,7 @@ sein O
 Album O
 Push MISC
 
-TUSERUSER O
+@lmrei O
 Ähm O
 .... O
 Es O
@@ -20097,7 +20097,7 @@ Geschirrspülmaschine O
 ^^ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 moderiere O
@@ -20105,7 +20105,7 @@ morgen O
 die O
 Verbandsdebatte O
 der O
-TUSERUSER O
+@lmrei O
 zu O
 #TTIP O
 . O
@@ -20175,8 +20175,8 @@ TURLURL O
 ONVISTA O
 #Aktien O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 ok O
 ihr O
 habt O
@@ -20272,9 +20272,9 @@ Erkältung O
 #gntm O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Moin O
 Anna PERSON
 . O
@@ -20286,7 +20286,7 @@ Sonn(en)tag O
 ;-)))) O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ein O
 18gang O
 getriebe O
@@ -20296,9 +20296,9 @@ zum O
 hinterrad O
 :) O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Aber O
 schön O
 eincremen O
@@ -20323,7 +20323,7 @@ der O
 Familie O
 . O
 
-TUSERUSER O
+@lmrei O
 Ich O
 hab O
 das O
@@ -20341,7 +20341,7 @@ schicken O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Immobilienpreise O
 : O
@@ -20374,7 +20374,7 @@ nachdem O
 trendet O
 :/ O
 
-TUSERUSER O
+@lmrei O
 eins O
 nach O
 dem O
@@ -20414,7 +20414,7 @@ doof O
 c O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Rechtsextreme O
 Randale O
@@ -20433,7 +20433,7 @@ TURLURL O
 #kw14nrw O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Präsidentenwahl O
 - O
@@ -20446,7 +20446,7 @@ demokratisch O
 ist O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Verwaltungsgebäude O
 war O
@@ -20524,7 +20524,7 @@ Privat O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Wie O
@@ -20564,7 +20564,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Geburtstagskind O
 Robert PERSON
@@ -20588,7 +20588,7 @@ weggerannt O
 xD O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Harte O
 Hunde O
@@ -20603,7 +20603,7 @@ junge O
 Hüpfer O
 - O
 der O
-TUSERUSER O
+@lmrei O
 hatte O
 schon O
 alles O
@@ -20692,7 +20692,7 @@ verboten O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Umleitungen O
 für O
@@ -20724,10 +20724,10 @@ Linke O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Sarkozy O
 besticht O
@@ -20769,7 +20769,7 @@ Bout MISC
 Baby MISC
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 FINAL O
 : O
@@ -20838,7 +20838,7 @@ gesperrt O
 werden O
 ! O
 
-TUSERUSER O
+@lmrei O
 ... O
 eine O
 Podiumsdiskussion O
@@ -20864,7 +20864,7 @@ ins O
 Finale O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Online O
 zum O
@@ -20881,7 +20881,7 @@ auf O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 OMG O
 , O
@@ -20924,7 +20924,7 @@ ziehen O
 8//D O
 #TTGL O
 
-TUSERUSER O
+@lmrei O
 Bayern ORG
 spielt O
 , O
@@ -20992,7 +20992,7 @@ tun O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Erst O
 vor O
@@ -21014,15 +21014,15 @@ anguckt O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Das O
 beste O
 Bild O
 bislang O
 ? O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Toto PERSON
 Wolff PERSON
 Paddy PERSON
@@ -21074,7 +21074,7 @@ Menschheit O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 +++ O
 Ukraine LOCATION
@@ -21126,7 +21126,7 @@ von O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nach O
 8 O
@@ -21141,7 +21141,7 @@ tot O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Vater O
 , O
@@ -21163,7 +21163,7 @@ mitentscheiden O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Pilgerjahre O
@@ -21174,7 +21174,7 @@ Tazaki O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Willst O
@@ -21191,7 +21191,7 @@ ansehen O
 " O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Einst O
 galten O
@@ -21211,7 +21211,7 @@ echten O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Danke O
 für O
 deine O
@@ -21263,7 +21263,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -21331,7 +21331,7 @@ dramatisch O
 ;-) O
 #lasttweet O
 
-TUSERUSER O
+@lmrei O
 Ich O
 auch O
 du O
@@ -21354,7 +21354,7 @@ gesund O
 ösewissenschaft O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Tztztzt O
 das O
 geht O
@@ -21382,10 +21382,10 @@ mix O
 ) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 . O
-TUSERUSER O
+@lmrei O
 hat O
 mit O
 Kobito PERSON
@@ -21404,7 +21404,7 @@ in O
 veröffentlicht O
 httTURLURL O
 
-TUSERUSER O
+@lmrei O
 Guten O
 Abend O
 . O
@@ -21427,7 +21427,7 @@ kleine O
 Trüffelsau O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Durch O
 eure O
@@ -21500,7 +21500,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Piratenfraktion ORG
 setzt O
@@ -21512,7 +21512,7 @@ durch O
 TURLURL O
 
 " O
-TUSERUSER O
+@lmrei O
 : O
 Hab O
 mich O
@@ -21567,9 +21567,9 @@ koennen O
 :) O
 
 Hauptsache O
-TUSERUSER O
+@lmrei O
 und O
-TUSERUSER O
+@lmrei O
 waren O
 essen O
 holen O
@@ -21578,15 +21578,15 @@ weswegen O
 ich O
 nur O
 Hero-sama O
-TUSERUSER O
+@lmrei O
 verabschieden O
 konnte O
 ;; O
 3 O
 ;; O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 hühner O
 hugo O
 ? O
@@ -21614,7 +21614,7 @@ Shop O
 hochgeladen O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Bestimmt O
 nicht O
 so O
@@ -21630,7 +21630,7 @@ Korrektur O
 ... O
 Eigentlich O
 
-TUSERUSER O
+@lmrei O
 für O
 einen O
 kurzen O
@@ -21673,8 +21673,8 @@ gekauft O
 ❤ O
 #pubertaet O
 #301180 O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 TURLURL O
 
 Den O
@@ -21695,7 +21695,7 @@ lern O
 TURLURL O
 #IT O
 
-TUSERUSER O
+@lmrei O
 Äh O
 ja O
 danke O
@@ -21708,7 +21708,7 @@ das O
 ablief O
 ? O
 
-TUSERUSER O
+@lmrei O
 ich O
 weiß O
 ja O
@@ -21722,7 +21722,7 @@ passieren O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 bleibe O
@@ -21744,7 +21744,7 @@ aus O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Spiegel ORG
@@ -21763,7 +21763,7 @@ zurück O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #UETD O
 Jubiläumsveranstaltung O
@@ -21798,7 +21798,7 @@ Alarmfahrt O
 zum O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bundesjustizminister O
 #Maas PERSON
@@ -21816,7 +21816,7 @@ NSU-Morde O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Auf O
 der O
@@ -21860,7 +21860,7 @@ s O
 Vidcam O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ein O
 " O
@@ -21911,7 +21911,7 @@ euch O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 i O
 hasse O
 s O
@@ -21934,7 +21934,7 @@ Wängi LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wer O
 von O
@@ -22020,8 +22020,8 @@ Olympics MISC
 #겹올림표 O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Das O
 passiert O
 , O
@@ -22086,7 +22086,7 @@ angeln O
 zuzuschauen O
 xD O
 
-TUSERUSER O
+@lmrei O
 das O
 is O
 100% O
@@ -22114,7 +22114,7 @@ hartnäckig O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Blut O
 spritzt O
@@ -22153,7 +22153,7 @@ auf O
 Deutsch O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Hier O
 auch O
 *-* O
@@ -22180,7 +22180,7 @@ Zeitung ORG
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 grandiose O
@@ -22218,7 +22218,7 @@ TURLURL O
 #g O
 ... O
 
-TUSERUSER O
+@lmrei O
 ich O
 hab O
 nur O
@@ -22231,7 +22231,7 @@ nein O
 
 . O
 @DallasSafariClub O
-TUSERUSER O
+@lmrei O
 Fragt O
 Regierung O
 Namibias LOCATION
@@ -22260,7 +22260,7 @@ Kämpfer O
 #Immortalis MISC
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 wie O
 sehen O
 denn O
@@ -22272,9 +22272,9 @@ horten O
 aus O
 ??? O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 ich O
 noch O
 finde O
@@ -22324,7 +22324,7 @@ WELT ORG
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Auch O
 die O
@@ -22444,7 +22444,7 @@ sind O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 sind O
@@ -22461,7 +22461,7 @@ http O
 :/ O
 … O
 
-TUSERUSER O
+@lmrei O
 ich O
 bin O
 krank O
@@ -22502,7 +22502,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Warum O
 Martin PERSON
@@ -22540,10 +22540,10 @@ Sanierungsfall O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 daaanke O
 sami PERSON
 und O
@@ -22644,7 +22644,7 @@ oh O
 ! O
 
 MT O
-TUSERUSER O
+@lmrei O
 : O
 Ecuador LOCATION
 : O
@@ -22675,7 +22675,7 @@ xD O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Playlist O
@@ -22710,7 +22710,7 @@ EP MISC
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Jede O
 Woche O
@@ -22793,7 +22793,7 @@ zum O
 geht O
 . O
 
-TUSERUSER O
+@lmrei O
 soll O
 ein O
 das O
@@ -22836,7 +22836,7 @@ Wolfenstein MISC
 : O
 TURLURL O
 über O
-TUSERUSER O
+@lmrei O
 
 Mein O
 Handy O
@@ -22896,7 +22896,7 @@ TURLURL O
 #Wirtschaftskrise O
 #Krise O
 
-TUSERUSER O
+@lmrei O
 Dann O
 nimmt O
 du O
@@ -22912,7 +22912,7 @@ Header O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Video O
 vom O
@@ -22937,7 +22937,7 @@ sterben O
 ? O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ... O
 Wahlveranstaltungen O
 zu O
@@ -22963,8 +22963,8 @@ Chaoten O
 eine O
 Absage O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 können O
 wir O
 ja O
@@ -23047,7 +23047,7 @@ geholfen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Schon O
@@ -23083,7 +23083,7 @@ Veganer O
 .… O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Angeklagte O
@@ -23116,7 +23116,7 @@ Jung PERSON
 #nowplaying O
 #WirLiebenSchlager O
 
-TUSERUSER O
+@lmrei O
 ich O
 liebe O
 dich O
@@ -23258,7 +23258,7 @@ Pe O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Finanzmarkt O
 -Krise O
@@ -23277,7 +23277,7 @@ Thema O
 ist O
 , O
 erklärt O
-TUSERUSER O
+@lmrei O
 : O
 TURLURL O
 
@@ -23299,7 +23299,7 @@ nie O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #RESMI O
 Striker O
@@ -23381,7 +23381,7 @@ TURLURL O
 #gameinsight O
 
 . O
-TUSERUSER O
+@lmrei O
 Danke O
 . O
 Reply O
@@ -23398,7 +23398,7 @@ Bin O
 gespannt O
 , O
 wie O
-TUSERUSER O
+@lmrei O
 am O
 Freitag O
 Euer O
@@ -23424,7 +23424,7 @@ sehen O
 -k- O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 das O
 is O
 toll O
@@ -23457,7 +23457,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 also O
 ich O
 bin O
@@ -23465,10 +23465,10 @@ kurz O
 vorm O
 Versagen O
 :D O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Spanien LOCATION
 : O
@@ -23487,7 +23487,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -23500,7 +23500,7 @@ Adjustment O
 Layers O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 kann O
@@ -23639,7 +23639,7 @@ kleine MISC
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ukraine-Krise O
 : O
@@ -23734,9 +23734,9 @@ bei O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 vielen O
 Dank O
 für O
@@ -23771,7 +23771,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 puh O
 ! O
@@ -23824,7 +23824,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Erst O
 einmal O
 schon O
@@ -23846,7 +23846,7 @@ als O
 alle O
 Kanzler O
 der O
-TUSERUSER O
+@lmrei O
 . O
 TURLURL O
 
@@ -23885,7 +23885,7 @@ Mai O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Ukraine O
 -Krise O
@@ -23969,7 +23969,7 @@ grossartige O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Göttlicher O
 Sündenpfuhl O
@@ -23986,7 +23986,7 @@ von MISC
 Konstanz MISC
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 eine O
 Frage O
 , O
@@ -24015,7 +24015,7 @@ spaltet O
 . O
 #Twitterermutigung O
 
-TUSERUSER O
+@lmrei O
 Die O
 Mutter O
 ist O
@@ -24038,7 +24038,7 @@ allein O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Dafür O
 zahle O
@@ -24088,7 +24088,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -24124,7 +24124,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 frag O
@@ -24229,7 +24229,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nach O
 20 O
@@ -24274,7 +24274,7 @@ befürchtet O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Bayern ORG
@@ -24290,7 +24290,7 @@ TURLURL O
 #ucl O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 besten O
@@ -24338,7 +24338,7 @@ geplanten O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hamwa O
 schon O
@@ -24375,7 +24375,7 @@ Finanzen100 O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 wenn O
 es O
 an O
@@ -24544,7 +24544,7 @@ Play O
 ARG O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 ‚Fahnder O
 finden O
@@ -24569,7 +24569,7 @@ http O
 . O
 cTURLURL O
 
-TUSERUSER O
+@lmrei O
 Nicht O
 jeder O
 kann O
@@ -24587,7 +24587,7 @@ ihn O
 beachte O
 . O
 
-TUSERUSER O
+@lmrei O
 Yepp O
 :-) O
 deine O
@@ -24621,7 +24621,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Preisknaller O
 : O
@@ -24648,7 +24648,7 @@ Zuschlagen O
 ” O
 . O
 
-TUSERUSER O
+@lmrei O
 Ja O
 , O
 die O
@@ -24667,7 +24667,7 @@ beschäftigt O
 wird O
 :( O
 
-TUSERUSER O
+@lmrei O
 Meine O
 Kritik O
 bezieht O
@@ -24708,7 +24708,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 7 O
 Fehler O
@@ -24725,7 +24725,7 @@ sollten O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Dieser O
 wundervolle O
@@ -24750,7 +24750,7 @@ gepostet O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #eBay O
 - O
@@ -24776,7 +24776,7 @@ fest O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Die O
 die O
 die O
@@ -24804,7 +24804,7 @@ nicht O
 mehr O
 . O
 .. O
-TUSERUSER O
+@lmrei O
 
 #Newsfunk O
 Notenbanken O
@@ -24822,7 +24822,7 @@ schnell O
 einfü O
 ... O
 
-TUSERUSER O
+@lmrei O
 indem O
 man O
 sie O
@@ -24842,9 +24842,9 @@ normalerweise O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Dachte O
 , O
 Lombardi PERSON
@@ -24891,7 +24891,7 @@ informative O
 Webseiten O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 entsetzt O
 erblickte O
 ich O
@@ -24998,7 +24998,7 @@ TURLURL O
 #Spotify O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Haben O
@@ -25067,7 +25067,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wollte O
 euch O
@@ -25128,7 +25128,7 @@ sahnefüllung O
 verpasst O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Wenn O
 Sie O
 stundenlang O
@@ -25170,7 +25170,7 @@ Schleuseninsel O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 hab O
@@ -25185,7 +25185,7 @@ Krabbenburger O
 schmeckt O
 . O
 
-TUSERUSER O
+@lmrei O
 Ich O
 folge O
 zu O
@@ -25206,7 +25206,7 @@ da O
 Prioritäten O
 . O
 
-TUSERUSER O
+@lmrei O
 ne O
 der O
 hat O
@@ -25230,7 +25230,7 @@ Sinn O
 kommen O
 . O
 
-TUSERUSER O
+@lmrei O
 Ich O
 liebe O
 Ihre O
@@ -25341,7 +25341,7 @@ und O
 Firmen-PR O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ist O
 beim O
 Screenshot O
@@ -25388,7 +25388,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Da O
 rennt O
@@ -25431,7 +25431,7 @@ TURLURL O
 #Gameinsight O
 #Androidgames O
 
-TUSERUSER O
+@lmrei O
 Ich O
 lehne O
 #AfD O
@@ -25483,7 +25483,7 @@ Glühwein O
 schlürfen O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Viele O
 angeblich O
@@ -25499,7 +25499,7 @@ eine O
 aktuelle O
 Studie O
 zeigt O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 Okay O
@@ -25579,7 +25579,7 @@ Kunst O
 ? O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ♥ O
 du O
 bist O
@@ -25598,7 +25598,7 @@ drauf O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Du O
@@ -25746,7 +25746,7 @@ Tor O
 und O
 Stichelei O
 
-TUSERUSER O
+@lmrei O
 War O
 ich O
 noch O
@@ -25815,9 +25815,9 @@ re O
 : O
 publica O
 ! O
-TUSERUSER O
+@lmrei O
 und O
-TUSERUSER O
+@lmrei O
 twittern O
 für O
 euch O
@@ -25827,7 +25827,7 @@ Berlin LOCATION
 . O
 #rp14 O
 
-TUSERUSER O
+@lmrei O
 Kriegsminister O
 Maurer PERSON
 ging O
@@ -25848,7 +25848,7 @@ rein O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Egal O
 was O
@@ -25879,9 +25879,9 @@ Adel O
 : O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 ich O
 hoff O
 , O
@@ -25977,7 +25977,7 @@ Laune O
 glücklich O
 , O
 mit O
-TUSERUSER O
+@lmrei O
 - O
 Social O
 GPS O
@@ -25996,11 +25996,11 @@ allem O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ruhrbarone MISC
 Dortmund LOCATION
-TUSERUSER O
+@lmrei O
 jetzt O
 Dortmund LOCATION
 : O
@@ -26061,7 +26061,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Oooh O
 ich O
 freu O
@@ -26094,7 +26094,7 @@ das O
 denn O
 ? O
 
-TUSERUSER O
+@lmrei O
 Keine O
 Sorge O
 , O
@@ -26143,8 +26143,8 @@ treffen O
 ♥♥♥ O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 ich O
 hab O
 den O
@@ -26152,7 +26152,7 @@ anschluss O
 verloren O
 😜 O
 
-TUSERUSER O
+@lmrei O
 wäh O
 ! O
 Ist O
@@ -26172,7 +26172,7 @@ Arbeitsamt O
 #McDonalds LOCATION
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 wünschte O
@@ -26195,7 +26195,7 @@ zwanghaft O
 versuchen O
 … O
 
-TUSERUSER O
+@lmrei O
 muss O
 ich O
 das O
@@ -26213,7 +26213,7 @@ keiner O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Das O
 einzige O
@@ -26250,7 +26250,7 @@ ischör O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Einfach O
 die O
@@ -26262,7 +26262,7 @@ Welt O
 #AllianzArena LOCATION
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 und O
 ich O
 schicken O
@@ -26285,7 +26285,7 @@ witzig O
 #IchLachMichTot O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 hoffe O
@@ -26306,7 +26306,7 @@ gibt O
 s O
 Stress O
 , O
-TUSERUSER O
+@lmrei O
 . O
 
 Melde O
@@ -26331,7 +26331,7 @@ Einkaufen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Red MISC
 Lighthouse MISC
@@ -26346,7 +26346,7 @@ Ellger PERSON
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Bundesrat O
@@ -26388,7 +26388,7 @@ machen O
 aufhören O
 sollst O
 ♡♡♡ O
-TUSERUSER O
+@lmrei O
 
 Arbeiten O
 wie O
@@ -26407,7 +26407,7 @@ Millionen-Strafe O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Immer O
 wenn O
@@ -26468,7 +26468,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 20 O
 : O
@@ -26535,7 +26535,7 @@ Rückblick O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 [ O
 INFO O
@@ -26550,7 +26550,7 @@ gestern O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ja O
 ! O
 😂 O
@@ -26584,7 +26584,7 @@ bis O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 hier O
 lauter O
 " O
@@ -26625,7 +26625,7 @@ schmerzhaft O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Mir O
 wurde O
 beigebracht O
@@ -26640,7 +26640,7 @@ korrekt O
 :3 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Erfolg O
 im O
@@ -26662,7 +26662,7 @@ schicken O
 ? O
 xD O
 
-TUSERUSER O
+@lmrei O
 TFF O
 1 O
 . O
@@ -26683,7 +26683,7 @@ Düsseldorf LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Was O
 man O
@@ -26695,8 +26695,8 @@ bekommt O
 ... O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Speaking O
 of O
 Kaffeesatz O
@@ -26716,7 +26716,7 @@ sein O
 könnte O
 ? O
 
-TUSERUSER O
+@lmrei O
 Schlaf O
 schön O
 - O
@@ -26788,8 +26788,8 @@ Erwartungen O
 #News O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 OMG O
 same O
 aber O
@@ -26812,7 +26812,7 @@ wie O
 ein O
 wasserfall O
 
-TUSERUSER O
+@lmrei O
 Omg O
 . O
 Du O
@@ -26829,7 +26829,7 @@ beste O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Timooooo PERSON
 alles O
@@ -26841,11 +26841,11 @@ zu O
 Millionen O
 ABONNENTEN O
 👏🎉😘 O
-TUSERUSER O
+@lmrei O
 👍 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Stromkonzerne O
@@ -26869,7 +26869,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -26882,7 +26882,7 @@ Caty O
 Kampf O
 gegen O
 
-TUSERUSER O
+@lmrei O
 ich O
 finde O
 den O
@@ -26916,7 +26916,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Was O
 machen O
@@ -26941,7 +26941,7 @@ heraus O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Cannabis O
 ist O
@@ -27061,7 +27061,7 @@ toll O
 *__* O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Im O
 Stream O
@@ -27074,7 +27074,7 @@ Inferno O
 " O
 , O
 von O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 TURLURL O
@@ -27090,17 +27090,17 @@ der O
 Umkreissuche O
 finden O
 
-TUSERUSER O
+@lmrei O
 Aber O
 ist O
 ja O
 auch O
 egal O
 , O
-TUSERUSER O
+@lmrei O
 von O
 der O
-TUSERUSER O
+@lmrei O
 hat O
 ' O
 s O
@@ -27188,7 +27188,7 @@ ist O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Kundenzufriedenheit O
 bei O
@@ -27268,9 +27268,9 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Die O
 Welt O
 der O
@@ -27332,7 +27332,7 @@ Magnetfeld O
 unterbrechen O
 ? O
 
-TUSERUSER O
+@lmrei O
 warum O
 schweigt O
 Schröder PERSON
@@ -27382,7 +27382,7 @@ Taschen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 will O
@@ -27438,8 +27438,8 @@ Kämpfer O
 #Immortalis MISC
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Achso O
 DMs O
 ... O
@@ -27477,7 +27477,7 @@ in O
 Behörden O
 entwickelt O
 
-TUSERUSER O
+@lmrei O
 Finn O
 , O
 ich O
@@ -27516,7 +27516,7 @@ Fotos O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Das O
 sind O
@@ -27537,13 +27537,13 @@ Alterssperre O
 ansehen O
 können O
 , O
-TUSERUSER O
+@lmrei O
 . O
 Naja O
 , O
 … O
 
-TUSERUSER O
+@lmrei O
 ja O
 wir O
 genießen O
@@ -27552,7 +27552,7 @@ leben O
 :D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ganzheitliches O
 Marketing O
@@ -27591,7 +27591,7 @@ downloaden O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 4 ORG
 Non ORG
@@ -27631,7 +27631,7 @@ Firmen O
 TURLURL O
 #PresseNachrichten O
 
-TUSERUSER O
+@lmrei O
 Morgen O
 haben O
 wir O
@@ -27672,7 +27672,7 @@ hasse O
 jeden O
 Arbeitstag O
 
-TUSERUSER O
+@lmrei O
 Hast O
 du O
 dir O
@@ -27694,12 +27694,12 @@ oder O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 “ O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Yaay O
 freu O
 mich O
@@ -27776,7 +27776,7 @@ harten O
 Gay-Sex O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 einSieg O
 von O
 #Artland MISC
@@ -27824,7 +27824,7 @@ wegen O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Tanzende O
 Fondsmanager O
@@ -27893,7 +27893,7 @@ interne O
 Zusammenarbeit O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ich O
 turne O
 jetzt O
@@ -27908,7 +27908,7 @@ gut O
 . O
 ;) O
 
-TUSERUSER O
+@lmrei O
 Man O
 hat O
 mir O
@@ -27924,7 +27924,7 @@ erstmal O
 kündigen O
 :/ O
 
-TUSERUSER O
+@lmrei O
 Ich O
 muss O
 sagen O
@@ -27947,8 +27947,8 @@ der O
 US-Jobs O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 ja O
 ist O
 echt O
@@ -27972,7 +27972,7 @@ zu O
 spielen^^ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Jetzt O
 spricht O
@@ -28013,10 +28013,10 @@ schön O
 : O
 TURLURL O
 über O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Frohe O
 Ostern O
@@ -28084,7 +28084,7 @@ US-Regierung O
 TURLURL O
 
 Der O
-TUSERUSER O
+@lmrei O
 zufolge O
 arbeitet O
 ein O
@@ -28132,10 +28132,10 @@ Yangtze LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 . O
-TUSERUSER O
+@lmrei O
 fordern O
 Stop O
 Vorratsdatenspeicherung O
@@ -28147,10 +28147,10 @@ TURLURL O
 #b O
 ūpf O
 #vds O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Gerhard PERSON
 Schröder PERSON
@@ -28172,7 +28172,7 @@ Putin PERSON
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wahlergebnis O
 in O
@@ -28223,7 +28223,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 ich O
 fänd O
 craft O
@@ -28244,13 +28244,13 @@ so O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Endlich O
 Zeit O
 gefunden O
 , O
-TUSERUSER O
+@lmrei O
 zu O
 sehen O
 : O
@@ -28267,7 +28267,7 @@ Kino O
 läuft O
 ! O
 
-TUSERUSER O
+@lmrei O
 Und O
 sie O
 geben O
@@ -28300,7 +28300,7 @@ Süddeutsche O
 de O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Manuela PERSON
 Wehrle PERSON
@@ -28346,9 +28346,9 @@ Air O
 .. O
 ! O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 mich O
 interessieren O
 keine O
@@ -28379,7 +28379,7 @@ Twitch O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Staatsanwalt O
 in O
@@ -28456,7 +28456,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 sehe O
 so O
@@ -28508,7 +28508,7 @@ Aktionärsversammlung O
 RWE O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 hallo❁ O
 tust O
 du O
@@ -28520,7 +28520,7 @@ Gefallen O
 Bitte O
 bitte O
 folg O
-TUSERUSER O
+@lmrei O
 ! O
 :) O
 du O
@@ -28629,7 +28629,7 @@ auf O
 . O
 7 O
 
-TUSERUSER O
+@lmrei O
 Das O
 ist O
 eine O
@@ -28650,7 +28650,7 @@ davon O
 ab O
 . O
 
-TUSERUSER O
+@lmrei O
 Oh O
 , O
 sehr O
@@ -28696,7 +28696,7 @@ cl O
 ) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mehr O
 Sicherheit O
@@ -28716,7 +28716,7 @@ Thema O
 TURLURL O
 #SIDNL O
 
-TUSERUSER O
+@lmrei O
 du O
 wärst O
 in O
@@ -28727,7 +28727,7 @@ klügste O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 find O
@@ -28765,9 +28765,9 @@ muss O
 . O
 #Pelzig O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 jap O
 ich O
 auch O
@@ -28790,7 +28790,7 @@ Herbst O
 warten O
 😰 O
 
-TUSERUSER O
+@lmrei O
 Das O
 willst O
 du O
@@ -28804,7 +28804,7 @@ Haare O
 drin O
 ;P O
 
-TUSERUSER O
+@lmrei O
 im O
 Klartext O
 : O
@@ -28828,7 +28828,7 @@ der O
 1/2 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Lahm PERSON
 : O
@@ -28857,9 +28857,9 @@ Münc LOCATION
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Darf O
 ich O
 ? O
@@ -28875,7 +28875,7 @@ auch O
 :] O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nach O
 " O
@@ -28893,7 +28893,7 @@ Pleite-Show O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Job O
 #IT O
@@ -28918,7 +28918,7 @@ http O
 /tTURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Roberto_Cavalli O
 Symbole O
@@ -28936,7 +28936,7 @@ werden O
 " O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Preisausschreiben O
 : O
@@ -28965,10 +28965,10 @@ en O
 vogue O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Updates O
 #Krim LOCATION
@@ -29028,7 +29028,7 @@ Nocht O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Demo O
 " O
@@ -29067,7 +29067,7 @@ Video O
 ] O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 TURLURL O
 Die O
@@ -29096,7 +29096,7 @@ Training O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Alles O
 eine O
@@ -29145,7 +29145,7 @@ Freunde O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Großartige O
 Grafik O
@@ -29201,7 +29201,7 @@ klick O
 hier O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Tausende O
 freie O
@@ -29257,7 +29257,7 @@ klarmachen O
 TURLURL O
 #check2 O
 
-TUSERUSER O
+@lmrei O
 Ich O
 möcht O
 auch O
@@ -29270,7 +29270,7 @@ sein O
 #Berlin LOCATION
 
 " O
-TUSERUSER O
+@lmrei O
 : O
 Lieber O
 geht O
@@ -29287,7 +29287,7 @@ Leber O
 " O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Übergewicht O
 : O
@@ -29329,7 +29329,7 @@ We O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ach O
 so O
 . O
@@ -29461,7 +29461,7 @@ P O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ( O
 und O
 wenn O
@@ -29513,7 +29513,7 @@ für O
 Foto O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 91 O
 . O
@@ -29583,7 +29583,7 @@ pinni O
 #nurdieichmag O
 ♡ O
 
-TUSERUSER O
+@lmrei O
 ... O
 und O
 wenn O
@@ -29646,7 +29646,7 @@ TURLURL O
 #Android MISC
 #Androidgames O
 
-TUSERUSER O
+@lmrei O
 es O
 ging O
 um O
@@ -29656,7 +29656,7 @@ Party O
 :-) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 ich O
 würde O
@@ -29679,7 +29679,7 @@ mich O
 vermisst O
 hast O
 
-TUSERUSER O
+@lmrei O
 auch O
 wieder O
 wahr O
@@ -29711,7 +29711,7 @@ klasse O
 #4gewinnt O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Juchuuuu O
 :)) O
@@ -29738,7 +29738,7 @@ schon O
 vergessen O
 : O
 RT O
-TUSERUSER O
+@lmrei O
 Berkay PERSON
 #Dabanli PERSON
 verlässt O
@@ -29782,7 +29782,7 @@ ist O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 30 O
 prorussische MISC
@@ -29849,7 +29849,7 @@ Ein O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Possession O
 : O
@@ -29927,7 +29927,7 @@ tun O
 könnte O
 . O
 
-TUSERUSER O
+@lmrei O
 Die O
 Videoauflösung O
 der O
@@ -29941,7 +29941,7 @@ Ernst O
 oder O
 ? O
 
-TUSERUSER O
+@lmrei O
 Ja O
 ach O
 :D O
@@ -29961,7 +29961,7 @@ bewirbst O
 oder O
 sowas^^ O
 
-TUSERUSER O
+@lmrei O
 über O
 deine O
 Bestrafung O
@@ -29970,7 +29970,7 @@ wir O
 noch O
 . O
 
-TUSERUSER O
+@lmrei O
 Guten O
 Morgen O
 Wünsche O
@@ -30040,7 +30040,7 @@ Microsoft ORG
 WTF O
 ?!?!? O
 
-TUSERUSER O
+@lmrei O
 Mit O
 welcher O
 Begründung O
@@ -30135,7 +30135,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Meine O
 Nachbarin O
 ist O
@@ -30203,7 +30203,7 @@ und O
 Thema O
 ? O
 
-TUSERUSER O
+@lmrei O
 Natürlich O
 nicht O
 , O
@@ -30228,7 +30228,7 @@ nicht O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Streit O
 um O
@@ -30245,8 +30245,8 @@ ihrer O
 Partei O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Ein O
 Mantra O
 ist O
@@ -30289,7 +30289,7 @@ ft O
 50 O
 Cent O
 
-TUSERUSER O
+@lmrei O
 Gut O
 ! O
 :) O
@@ -30316,7 +30316,7 @@ gepostet O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Habe O
 gerade O
@@ -30362,9 +30362,9 @@ hier O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Das O
 macht O
 den O
@@ -30383,7 +30383,7 @@ Kriegspolitik O
 : O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Jeden O
 Tag O
@@ -30411,7 +30411,7 @@ KOSTENLOS O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Diese O
 6 O
@@ -30426,7 +30426,7 @@ sprechen O
 : O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 es O
 bringt O
 hoffentlich O
@@ -30440,7 +30440,7 @@ das O
 Verständnis O
 . O
 
-TUSERUSER O
+@lmrei O
 ist O
 es O
 auch O
@@ -30485,7 +30485,7 @@ wegen O
 
 Danke O
 , O
-TUSERUSER O
+@lmrei O
 ! O
 Final O
 cut O
@@ -30501,7 +30501,7 @@ Islas LOCATION
 Malvinas(Falklands) LOCATION
 ? O
 Unser O
-TUSERUSER O
+@lmrei O
 kommt O
 aber O
 auch O
@@ -30562,7 +30562,7 @@ TURLURL O
 #Gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ach O
 ja O
@@ -30639,7 +30639,7 @@ Probemonat O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Schauspieler O
@@ -30665,14 +30665,14 @@ der O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Sí O
 :) O
 & O
 lt O
 ;3 O
-TUSERUSER O
+@lmrei O
 Gehst O
 du O
 auf O
@@ -30717,7 +30717,7 @@ Mittelmeer LOCATION
 » O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Basar O
 wurde O
@@ -30739,7 +30739,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Trotzdem O
 wirst O
 du O
@@ -30761,7 +30761,7 @@ wohl O
 #HSV O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 sind O
@@ -30769,7 +30769,7 @@ ein O
 bisschen O
 verknallt O
 in O
-TUSERUSER O
+@lmrei O
 ! O
 Hier O
 das O
@@ -30814,7 +30814,7 @@ Cuxhaven LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Muss O
 jedes O
@@ -30874,7 +30874,7 @@ kennen O
 : O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ich O
 hoffe O
 doch O
@@ -30953,13 +30953,13 @@ Blogs O
 : O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 #smm O
 #trier O
 #socialmedia O
 #socialmediamarketing O
 
-TUSERUSER O
+@lmrei O
 Dachte O
 ich O
 auch O
@@ -31027,7 +31027,7 @@ genommen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 So O
 ist O
@@ -31043,7 +31043,7 @@ gibt O
 #ostermontag O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Polizei O
 fahndet O
@@ -31059,7 +31059,7 @@ ist O
 TURLURL O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Und O
 Haben O
 sie O
@@ -31128,7 +31128,7 @@ passiert O
 : O
 D O
 
-TUSERUSER O
+@lmrei O
 ich O
 find O
 die O
@@ -31162,7 +31162,7 @@ TURLURL O
 #Androidgames O
 #Gameinsight O
 
-TUSERUSER O
+@lmrei O
 Wir O
 können O
 uns O
@@ -31174,9 +31174,9 @@ teilen O
 :D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 #Roberto_Cavalli O
 hat O
 #heiliges O
@@ -31195,7 +31195,7 @@ KOPIERT O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Sei O
 ganz O
@@ -31277,7 +31277,7 @@ beweis O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Es O
 geht O
@@ -31306,7 +31306,7 @@ Geld O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Yesyesyes O
 , O
@@ -31329,7 +31329,7 @@ mal O
 vergraben O
 . O
 
-TUSERUSER O
+@lmrei O
 Wetter O
 ist O
 auch O
@@ -31383,7 +31383,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 finds O
@@ -31409,7 +31409,7 @@ Hashtag O
 #VivaSami O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Was O
 ist O
@@ -31445,7 +31445,7 @@ auf O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Aww O
 , O
@@ -31464,7 +31464,7 @@ lt O
 & O
 lt O
 ;3 O
-TUSERUSER O
+@lmrei O
 Das O
 ist O
 mein O
@@ -31474,7 +31474,7 @@ Hero O
 ! O
 :) O
 💁💕 O
-TUSERUSER O
+@lmrei O
 httpTURLURL O
 
 Ich O
@@ -31499,7 +31499,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wie O
 süß O
@@ -31516,7 +31516,7 @@ mich O
 glücklich O
 ♥ O
 
-TUSERUSER O
+@lmrei O
 pff O
 ... O
 Ich O
@@ -31537,9 +31537,9 @@ Chiara PERSON
 nicht O
 ! O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 … O
 zu O
 erwarten O
@@ -31635,7 +31635,7 @@ raus O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ausdrucken O
 und O
@@ -31678,7 +31678,7 @@ reinschwatzen O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Cem PERSON
 Özdemir PERSON
 ist O
@@ -31705,7 +31705,7 @@ Dieser O
 Heuchler O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Meine O
 MUM O
@@ -31774,7 +31774,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 gut O
 das O
 du O
@@ -31800,7 +31800,7 @@ Windows MISC
 XP MISC
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 das O
 eine O
 hat O
@@ -31812,7 +31812,7 @@ zu O
 tun O
 ! O
 
-TUSERUSER O
+@lmrei O
 heuschnupfen O
 . O
 Ich O
@@ -31880,7 +31880,7 @@ Rems-Murr-Kreis O
 … O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 zu O
 schick O
 für O
@@ -31909,8 +31909,8 @@ niedrige O
 Heels O
 ? O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Von O
 Kontern O
 kann O
@@ -31933,7 +31933,7 @@ zu O
 hören O
 ... O
 
-TUSERUSER O
+@lmrei O
 Lach O
 und O
 dann O
@@ -31944,7 +31944,7 @@ aus O
 ! O
 
 MdB O
-TUSERUSER O
+@lmrei O
 - O
 erst O
 #VDS O
@@ -32037,7 +32037,7 @@ Vorstellungsgespräch O
 ~ O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 bleibt O
 nicht O
 aus O
@@ -32112,7 +32112,7 @@ Junge O
 .. O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Für O
 ein O
@@ -32256,7 +32256,7 @@ Fahrt O
 ): O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Walter PERSON
 Wobrazek PERSON
@@ -32277,7 +32277,7 @@ königlich O
 :-) O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 kannst O
 du O
 mir O
@@ -32295,7 +32295,7 @@ und O
 alles O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 EU-Bürger O
 sollen O
@@ -32361,7 +32361,7 @@ U116 O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Sitze O
 grad O
@@ -32403,7 +32403,7 @@ passen O
 ... O
 #ESC MISC
 
-TUSERUSER O
+@lmrei O
 Natürlich O
 bin O
 ich O
@@ -32444,7 +32444,7 @@ ein O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mein O
 Indianername O
@@ -32489,7 +32489,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kieler MISC
 Verhältnisse O
@@ -32502,7 +32502,7 @@ Gaschke PERSON
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ernüchternd O
 , O
@@ -32541,7 +32541,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -32578,7 +32578,7 @@ Schon O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Fühle O
 meine O
 Beine O
@@ -32629,7 +32629,7 @@ Mic O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 In O
 Köln LOCATION
@@ -32651,7 +32651,7 @@ Keller O
 #Unwetter O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Hehe O
 !! O
 mir O
@@ -32692,9 +32692,9 @@ sterben O
 " O
 , O
 sagen O
-TUSERUSER O
+@lmrei O
 und O
-TUSERUSER O
+@lmrei O
 aus O
 der O
 Schweiz LOCATION
@@ -32758,7 +32758,7 @@ entschieden O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Manche O
 Menschen O
@@ -32779,7 +32779,7 @@ Zug O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Und O
 wir O
@@ -32820,7 +32820,7 @@ gepostet O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hamburger MISC
 Bauskandal O
@@ -32865,7 +32865,7 @@ grossen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Rebellen O
 besetzen O
@@ -32899,7 +32899,7 @@ Kiew LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nicht O
 verpassen O
@@ -32910,9 +32910,9 @@ Wahlarena O
 " O
 mit O
 Spitzenkandidaten O
-TUSERUSER O
+@lmrei O
 und O
-TUSERUSER O
+@lmrei O
 . O
 Ab O
 21 O
@@ -32997,7 +32997,7 @@ Wochenende O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Unruhen O
 im O
@@ -33033,7 +33033,7 @@ zum O
 #ff O
 geht O
 an O
-TUSERUSER O
+@lmrei O
 :-) O
 
 Spaß O
@@ -33095,7 +33095,7 @@ essen O
 ? O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 nee O
 , O
 das O
@@ -33113,10 +33113,10 @@ läuft O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 . O
-TUSERUSER O
+@lmrei O
 ach O
 so O
 nen O
@@ -33139,7 +33139,7 @@ zu O
 werden O
 ! O
 
-TUSERUSER O
+@lmrei O
 Nein O
 .. O
 Ich O
@@ -33170,14 +33170,14 @@ aufgetan O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Im O
 Sommer O
 wird O
 Lewandowski PERSON
 zum O
-TUSERUSER O
+@lmrei O
 wechseln O
 . O
 Die O
@@ -33208,7 +33208,7 @@ ein O
 ¡hola O
 ! O
 
-TUSERUSER O
+@lmrei O
 wir O
 machen O
 solange O
@@ -33221,10 +33221,10 @@ unser O
 Logo O
 entfernst‼️ O
 #TakeOffJustLogo O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 kann O
 ich O
 zwar O
@@ -33251,7 +33251,7 @@ von O
 lt O
 ;3 O
 
-TUSERUSER O
+@lmrei O
 ich O
 hab O
 allerdings O
@@ -33267,9 +33267,9 @@ ist O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 so O
 - O
 und O
@@ -33313,7 +33313,7 @@ gepostet O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Sollte O
 er O
@@ -33519,7 +33519,7 @@ Wahl O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Schau O
 den O
@@ -33544,7 +33544,7 @@ Hiob O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Irgendwie O
 habe O
@@ -33571,9 +33571,9 @@ befreundet O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 dann O
 mach O
 dich O
@@ -33586,7 +33586,7 @@ TURLURL O
 Funfact O
 : O
 das O
-TUSERUSER O
+@lmrei O
 One MISC
 Mini MISC
 2 O
@@ -33600,7 +33600,7 @@ one MISC
 m7 MISC
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Job-Studie O
 : O
@@ -33853,7 +33853,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Thema O
 #Zweitwohnungssteuer O
@@ -33926,7 +33926,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kartoffelsuppe O
 ist O
@@ -33960,7 +33960,7 @@ von O
 J.J. PERSON
 Abrams PERSON
 Produktionsfirma O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 London-Heathrow LOCATION
@@ -34017,8 +34017,8 @@ nervig O
 . O
 #AppFilm O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 er O
 scheint O
 wohl O
@@ -34075,7 +34075,7 @@ MÜSSEN O
 " O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 EXO-K O
 MCD O
@@ -34112,7 +34112,7 @@ Ratings O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Ehy O
@@ -34147,7 +34147,7 @@ Kombination O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kumpel O
 gestern O
@@ -34210,7 +34210,7 @@ Löcher O
 entstehen O
 . O
 
-TUSERUSER O
+@lmrei O
 wie O
 soll O
 ein O
@@ -34227,7 +34227,7 @@ unabhängig O
 werden O
 ? O
 
-TUSERUSER O
+@lmrei O
 Glück O
 gehabt O
 , O
@@ -34261,8 +34261,8 @@ Doch O
 ... O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Bei O
 den O
 freien O
@@ -34310,7 +34310,7 @@ Der O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 ¨Netzgemeinde O
 definiert O
@@ -34337,7 +34337,7 @@ vom O
 #Quizduell MISC
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 2014 O
 wird O
@@ -34390,7 +34390,7 @@ ein O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Putin PERSON
 küsst O
 Schröder PERSON
@@ -34402,7 +34402,7 @@ Merkel PERSON
 .. O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mit O
 der O
@@ -34423,7 +34423,7 @@ kaputt O
 schlagen O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Merkel PERSON
 & O
@@ -34446,7 +34446,7 @@ wichtige O
 Städte O
 httpTURLURL O
 
-TUSERUSER O
+@lmrei O
 " O
 Der O
 Allgemeinmediziner O
@@ -34464,7 +34464,7 @@ Konditor O
 " O
 :D O
 
-TUSERUSER O
+@lmrei O
 Absolut O
 alle O
 wie O
@@ -34478,11 +34478,11 @@ vertrauen O
 bei O
 ärztlicher O
 Schweigepflicht O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Spätestens O
 2018 O
@@ -34551,7 +34551,7 @@ witmen O
 ; O
 * O
 
-TUSERUSER O
+@lmrei O
 aber O
 bei O
 anderen O
@@ -34595,7 +34595,7 @@ Jungs O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Genau O
 dann O
 wann O
@@ -34617,7 +34617,7 @@ entlohnt O
 :D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 AfD ORG
@@ -34633,7 +34633,7 @@ ein O
 Pirat O
 . O
 
-TUSERUSER O
+@lmrei O
 Die O
 SZ O
 Fernsehbeilage O
@@ -34650,8 +34650,8 @@ Social O
 Media O
 Team O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Wobei O
 er O
 keine O
@@ -34774,7 +34774,7 @@ TURLURL O
 
 omg O
 , O
-TUSERUSER O
+@lmrei O
 ?! O
 :D O
 Ich O
@@ -34805,7 +34805,7 @@ stellen O
 ♥ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 “ O
 Die O
@@ -34833,7 +34833,7 @@ e O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bei O
 Manchen O
@@ -34857,7 +34857,7 @@ vor O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Must O
 read O
@@ -34872,7 +34872,7 @@ Journalisten-Armee O
 einsetzt O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Die O
 Einen O
@@ -34915,7 +34915,7 @@ tłumaczenie O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Unser O
 Logo O
@@ -34931,7 +34931,7 @@ echt O
 ! O
 #TakeOffJustLogo O
 #sufirights O
-TUSERUSER O
+@lmrei O
 #justice O
 http O
 :/ O
@@ -34940,7 +34940,7 @@ http O
 coTURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 " O
@@ -34963,7 +34963,7 @@ UL O
 TURLURL O
 
 Dank O
-TUSERUSER O
+@lmrei O
 bin O
 ich O
 heute O
@@ -34971,7 +34971,7 @@ abend O
 live O
 bei O
 den O
-TUSERUSER O
+@lmrei O
 . O
 ALLES O
 ODER O
@@ -34988,7 +34988,7 @@ wir O
 rocken O
 ! O
 
-TUSERUSER O
+@lmrei O
 was O
 för O
 eini O
@@ -34997,7 +34997,7 @@ hemmer O
 👋✊ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mönchengladbach LOCATION
 : O
@@ -35054,7 +35054,7 @@ und O
 AfD ORG
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Schöner O
 Saisonabschluss O
@@ -35085,7 +35085,7 @@ wenns O
 zu O
 viel O
 wird O
-TUSERUSER O
+@lmrei O
 2014 O
 Briefanfrage O
 ? O
@@ -35104,7 +35104,7 @@ auch O
 noch O
 nicht O
 ... O
-TUSERUSER O
+@lmrei O
 #DLB O
 
 Warum O
@@ -35150,7 +35150,7 @@ Handwerkern O
 vermeiden O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 darf O
 ich O
 meine O
@@ -35225,12 +35225,12 @@ Knaller O
 .. O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Yeahh O
 erst O
 favt O
-TUSERUSER O
+@lmrei O
 was O
 von O
 mir O
@@ -35294,7 +35294,7 @@ Nargh O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 verlosen O
@@ -35322,7 +35322,7 @@ http O
 . O
 coTURLURL O
 
-TUSERUSER O
+@lmrei O
 sowas O
 versaut O
 mir O
@@ -35334,7 +35334,7 @@ dringend O
 entfolgen O
 . O
 
-TUSERUSER O
+@lmrei O
 War O
 bei O
 mir O
@@ -35369,7 +35369,7 @@ und O
 Unternehm O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 und O
 dabei O
 Würzburgs O
@@ -35418,7 +35418,7 @@ Dienstag O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ab O
 20 O
@@ -35456,7 +35456,7 @@ brauchen O
 ... O
 #GERKAM O
 
-TUSERUSER O
+@lmrei O
 hä O
 aber O
 das O
@@ -35498,7 +35498,7 @@ gepostet O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 quer O
 um O
@@ -35511,7 +35511,7 @@ work O
 bitch O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Terrorismus O
 : O
@@ -35525,7 +35525,7 @@ Irak LOCATION
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bitte O
 RETWEETEN O
@@ -35572,7 +35572,7 @@ Schaumbad O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 um O
 ehrlich O
 zu O
@@ -35603,7 +35603,7 @@ leer O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wählen O
 Sie O
@@ -35645,7 +35645,7 @@ TURLURL O
 
 Spitzernreiter O
 beim O
-TUSERUSER O
+@lmrei O
 #Leipzig LOCATION
 zu O
 Gast O
@@ -35713,7 +35713,7 @@ TURLURL O
 #Androidgames O
 #Android MISC
 
-TUSERUSER O
+@lmrei O
 dieses O
 charmante O
 Lächeln O
@@ -35726,7 +35726,7 @@ wuschig O
 :D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Khamis LOCATION
 Mosque LOCATION
@@ -35789,7 +35789,7 @@ allerdings O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Drehe O
 den O
@@ -35924,7 +35924,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 richtigen O
@@ -36011,7 +36011,7 @@ verdienen O
 | O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Äh O
 , O
 so O
@@ -36027,12 +36027,12 @@ auf O
 den O
 Tweet O
 von O
-TUSERUSER O
+@lmrei O
 geantwortet O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Uni ORG
 Rostock ORG
@@ -36043,7 +36043,7 @@ verleihen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wetterdienst O
 warnt O
@@ -36057,8 +36057,8 @@ Wasser O
 ? O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 In O
 welchem O
 Zusammenhang O
@@ -36079,7 +36079,7 @@ betreiben O
 " O
 ? O
 
-TUSERUSER O
+@lmrei O
 Du O
 bist O
 da O
@@ -36224,10 +36224,10 @@ aber O
 nur O
 kurz O
 #seehofer PERSON
-TUSERUSER O
+@lmrei O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ruft O
 Poroshenko PERSON
 dann O
@@ -36250,9 +36250,9 @@ unterstützt O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 danke O
 für O
 die O
@@ -36272,7 +36272,7 @@ wie O
 summer O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Franck PERSON
 Ribéry PERSON
@@ -36314,7 +36314,7 @@ dich O
 *--*"" O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Zu O
 #Haderthauer O
@@ -36431,9 +36431,9 @@ empfinden O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 von O
 einem O
 Berater O
@@ -36484,7 +36484,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Giovanni O
 #dilorenzo O
@@ -36496,7 +36496,7 @@ Twitter O
 läuft O
 heißt O
 . O
-TUSERUSER O
+@lmrei O
 ordnet O
 das O
 ein O
@@ -36505,7 +36505,7 @@ TURLURL O
 #EP2014 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Also O
 wirds O
@@ -36564,7 +36564,7 @@ TURLURL O
 #DOAGeV O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 GLUECKLICH O
 TROTZ O
@@ -36599,7 +36599,7 @@ Dachpfannen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Toter O
 bei O
@@ -36635,8 +36635,8 @@ gelernt O
 : O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 haha O
 . O
 ich O
@@ -36691,11 +36691,11 @@ Montag O
 6 O
 . O
 wird O
-TUSERUSER O
+@lmrei O
 ein O
 Radiokonzert O
 für O
-TUSERUSER O
+@lmrei O
 geben O
 . O
 Tickets O
@@ -36748,7 +36748,7 @@ liegt O
 😤 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 LIKE O
 gerade O
@@ -36761,7 +36761,7 @@ Instagram O
 ! O
 Schaut O
 vorbei O
-TUSERUSER O
+@lmrei O
 📷📷 O
 ❤ O
 ️😏 O
@@ -36788,7 +36788,7 @@ K O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Warum O
 ich O
@@ -36829,7 +36829,7 @@ ich O
 kenne O
 . O
 Der O
-TUSERUSER O
+@lmrei O
 & O
 lt O
 ;3 O
@@ -36857,7 +36857,7 @@ Schulz PERSON
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 habe O
@@ -36872,7 +36872,7 @@ auch O
 benutzen O
 . O
 
-TUSERUSER O
+@lmrei O
 Komm O
 ruhig O
 schonmal O
@@ -37015,7 +37015,7 @@ verlobt O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 3-D-Drucker O
 : O
@@ -37028,7 +37028,7 @@ Revolution O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #SeitSnowden O
 ist O
@@ -37119,7 +37119,7 @@ Facebook MISC
 gepostet O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 denke O
 mit O
 den O
@@ -37135,7 +37135,7 @@ noch O
 erfolgreich O
 . O
 
-TUSERUSER O
+@lmrei O
 Du O
 hast O
 geile O
@@ -37187,7 +37187,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Warum O
@@ -37294,7 +37294,7 @@ Meine O
 Timeline O
 besteht O
 aus O
-TUSERUSER O
+@lmrei O
 s O
 O_O O
 TURLURL O
@@ -37335,7 +37335,7 @@ arzt O
 bist O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Ich O
@@ -37368,7 +37368,7 @@ TURLURL O
 #Internetmarketinggg O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Habe O
 beim O
@@ -37392,8 +37392,8 @@ klären O
 Z O
 … O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Japp O
 . O
 Kennen O
@@ -37436,7 +37436,7 @@ Privat O
 " O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Das O
 ist O
 super O
@@ -37464,7 +37464,7 @@ gefällt O
 LG ORG
 
 RT O
-TUSERUSER O
+@lmrei O
 : ORG
 Gerade O
 trainiert O
@@ -37570,7 +37570,7 @@ in O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Schiffsunglück O
 : O
@@ -37581,8 +37581,8 @@ Japans LOCATION
 explodiert O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 bin O
 gespannt O
 wie O
@@ -37594,7 +37594,7 @@ wird O
 #excited O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bürgerkrieg O
 : O
@@ -37675,8 +37675,8 @@ over O
 hier O
 : O
 TURLURL O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 
 hat O
 ein O
@@ -37700,7 +37700,7 @@ TURLURL O
 #runtastic O
 #Android O
 
-TUSERUSER O
+@lmrei O
 Das O
 sind O
 mehr O
@@ -37733,7 +37733,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 du O
 bist O
 einfach O
@@ -37751,7 +37751,7 @@ dir O
 ;) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Es O
 folgt O
@@ -37823,7 +37823,7 @@ Hagel O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 In O
@@ -37858,7 +37858,7 @@ Treue O
 Bayern MISC
 Fans O
 
-TUSERUSER O
+@lmrei O
 Steini PERSON
 wirkt O
 völlig O
@@ -37879,8 +37879,8 @@ Krankheit O
 , O
 oder O
 ? O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 
 ANRUF O
 ERWÜNSCHT O
@@ -37973,7 +37973,7 @@ TURLURL O
 #DeutscheWelle O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wehe O
 es O
@@ -38048,7 +38048,7 @@ ordentlich O
 gerockt O
 :-D O
 
-TUSERUSER O
+@lmrei O
 idk O
 ): O
 seit O
@@ -38119,8 +38119,8 @@ sparst O
 ! O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 chumt O
 doch O
 nid O
@@ -38152,7 +38152,7 @@ ANMELDEN O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Es O
 wäre O
@@ -38244,7 +38244,7 @@ Relegationsplatz LOCATION
 #SkyCL O
 #ZwWdF O
 
-TUSERUSER O
+@lmrei O
 das O
 lied O
 dreht O
@@ -38261,7 +38261,7 @@ Penis O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Red MISC
 Lighthouse MISC
@@ -38276,7 +38276,7 @@ Ellger PERSON
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Russland-USA O
 : O
@@ -38290,7 +38290,7 @@ zurecht O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Haha O
 es O
@@ -38400,9 +38400,9 @@ Antwort O
 : O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 Sind O
 die O
 Passübungen O
@@ -38418,7 +38418,7 @@ Trainings O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Osterhase O
@@ -38483,7 +38483,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Red MISC
 Lighthouse MISC
@@ -38498,7 +38498,7 @@ Ellger PERSON
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ohne O
 dich O
@@ -38511,7 +38511,7 @@ gewesen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wenn O
 wir O
@@ -38536,7 +38536,7 @@ gekommen O
 #22UhrNonMen O
 … O
 
-TUSERUSER O
+@lmrei O
 Na O
 das O
 ist O
@@ -38562,7 +38562,7 @@ Versorger O
 wär O
 was O
 
-TUSERUSER O
+@lmrei O
 Huh O
 ! O
 Hat O
@@ -38578,7 +38578,7 @@ eigentlich O
 noch O
 GS O
 ? O
-TUSERUSER O
+@lmrei O
 
 Ich O
 habe O
@@ -38643,8 +38643,8 @@ alleine O
 sein O
 . O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Was O
 sagen O
 Sie O
@@ -38663,7 +38663,7 @@ zwangsumgesiedelt O
 wurden O
 ? O
 
-TUSERUSER O
+@lmrei O
 mein O
 ich O
 auch O
@@ -38682,7 +38682,7 @@ ums O
 prinzip O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Deutschland LOCATION
 , O
@@ -38697,7 +38697,7 @@ sein O
 . O
 😏🇩🇪 O
 
-TUSERUSER O
+@lmrei O
 Zwei O
 Jahre O
 darfst O
@@ -38715,7 +38715,7 @@ JU O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wer O
 wird O
@@ -38797,7 +38797,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -38825,8 +38825,8 @@ Architektur-Zentrum LOCATION
 #Architektur O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 wer O
 kann O
 man O
@@ -38875,9 +38875,9 @@ seinen O
 Gunsten O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Wie O
 absurd O
 - O
@@ -38894,7 +38894,7 @@ ist O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 So O
 gehen O
@@ -38934,7 +38934,7 @@ schauen O
 -.- O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wenn O
 mein O
@@ -38962,7 +38962,7 @@ zu O
 schauen O
 . O
 
-TUSERUSER O
+@lmrei O
 ach O
 dann O
 brauchen O
@@ -39048,7 +39048,7 @@ und O
 wundere O
 mich O
 xD O
-TUSERUSER O
+@lmrei O
 
 Herrenhaus MISC
 wurde O
@@ -39098,7 +39098,7 @@ bei O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ein O
 Horrorfilm O
@@ -39118,7 +39118,7 @@ einem O
 Banküberfall O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 wenn O
 die O
 bisherige O
@@ -39138,7 +39138,7 @@ Jahre O
 #Hoeness O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nie O
 wieder O
@@ -39184,7 +39184,7 @@ LIEBLINGSTRACKS O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Heute O
 um O
@@ -39201,7 +39201,7 @@ für O
 das O
 Bundesliga-Heimspiel O
 gegen O
-TUSERUSER O
+@lmrei O
 Frankfurt LOCATION
 : O
 http O
@@ -39224,7 +39224,7 @@ oder O
 ? O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ich O
 weiß O
 irgendwann O
@@ -39281,7 +39281,7 @@ Sportheims O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Überraschung O
 : O
@@ -39370,7 +39370,7 @@ an O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Großbrand O
 in O
@@ -39416,7 +39416,7 @@ Weges O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #DeutscheBank ORG
 gefährdet O
@@ -39463,8 +39463,8 @@ an O
 . O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 nicht O
 , O
 dass O
@@ -39516,7 +39516,7 @@ TURLURL O
 #gameinsight O
 
 “ O
-TUSERUSER O
+@lmrei O
 : O
 Schmiergeld-Prozess O
 : O
@@ -39548,7 +39548,7 @@ TURLURL O
 
 Mein O
 Rundenrekord O
-TUSERUSER O
+@lmrei O
 liegt O
 bei O
 59 O
@@ -39559,14 +39559,14 @@ dem O
 IPad MISC
 in O
 der O
-TUSERUSER O
+@lmrei O
 easports O
 Version O
 . O
 Aber O
 immerhin O
 
-TUSERUSER O
+@lmrei O
 Auf O
 Dauer O
 eher O
@@ -39586,7 +39586,7 @@ TURLURL O
 Vielen O
 Dank O
 an O
-TUSERUSER O
+@lmrei O
 
 Ich O
 sammelte O
@@ -39604,7 +39604,7 @@ TURLURL O
 #Androidgames O
 #Android O
 
-TUSERUSER O
+@lmrei O
 weil O
 man O
 für O
@@ -39645,10 +39645,10 @@ profil O
 ! O
 #kraftklub O
 #southside14 O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Brief O
 ohne O
@@ -39667,12 +39667,12 @@ lesen O
 TURLURL O
 v O
 . O
-TUSERUSER O
+@lmrei O
 #Merkel PERSON
 #Systemkri O
 … O
 
-TUSERUSER O
+@lmrei O
 keine O
 zeit O
 für O
@@ -39701,7 +39701,7 @@ werden O
 ? O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 oh O
 , O
 nicht O
@@ -39713,7 +39713,7 @@ kanns O
 und O
 dann O
 an O
-TUSERUSER O
+@lmrei O
 weitergeben O
 ;-) O
 #2fliegen O
@@ -39738,7 +39738,7 @@ TURLURL O
 #Android MISC
 #Androidgames O
 
-TUSERUSER O
+@lmrei O
 ne O
 schönster O
 sonnenschein O
@@ -39766,7 +39766,7 @@ haben O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Beim O
 #FCN O
@@ -39802,7 +39802,7 @@ Wirtschaftsministerin O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Prinz O
 #Charles PERSON
@@ -39889,7 +39889,7 @@ an O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Über O
 sich O
@@ -39956,7 +39956,7 @@ d O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 25 O
 Follower O
@@ -40024,7 +40024,7 @@ Meh O
 #LastRTs O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 beiden O
@@ -40069,7 +40069,7 @@ TURLURL O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Demonstrationen O
 in O
@@ -40129,7 +40129,7 @@ TURLURL O
 #Android MISC
 #Gameinsight O
 
-TUSERUSER O
+@lmrei O
 Ich O
 habe O
 nicht O
@@ -40146,10 +40146,10 @@ Antibiotika O
 belastet O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nachtrag O
 : O
@@ -40187,20 +40187,20 @@ TURLURL O
 #Gameinsight O
 #Android MISC
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 selsmütze O
 und O
 Ecke O
 für O
-TUSERUSER O
+@lmrei O
 oder O
 ........ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Die O
 Meisten O
 in O
@@ -40239,7 +40239,7 @@ der O
 Rettung O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ich O
 wette O
 das O
@@ -40258,7 +40258,7 @@ nicht O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Armutsstaat O
@@ -40299,7 +40299,7 @@ neu O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Neues O
 Video O
@@ -40320,10 +40320,10 @@ Challenge O
 : O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Arbeit O
 ist O
@@ -40341,7 +40341,7 @@ können O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Schreib O
 uns O
@@ -40359,9 +40359,9 @@ TURLURL O
 #Berlin LOCATION
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 oha O
 wie O
 cute O
@@ -40370,7 +40370,7 @@ das O
 denn O
 :3 O
 
-TUSERUSER O
+@lmrei O
 ja O
 nee O
 ist O
@@ -40383,14 +40383,14 @@ echt O
 die O
 Worte O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Soviel O
 ich O
 weiss O
 hat O
 der O
-TUSERUSER O
+@lmrei O
 bis O
 Ostern O
 " O
@@ -40417,7 +40417,7 @@ abgesahnt O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Snow MISC
 von O
@@ -40427,7 +40427,7 @@ auf O
 Etsy O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 #avignon LOCATION
 
 #dankepolizei O
@@ -40507,7 +40507,7 @@ Schloßstr LOCATION
 Wiesloch LOCATION
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kaufberatung O
 : O
@@ -40541,7 +40541,7 @@ von O
 Zeichen O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Vermietung O
 Oldtimer O
@@ -40561,7 +40561,7 @@ http O
 coTURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Harry O
 hat O
@@ -40578,7 +40578,7 @@ noch O
 lang O
 . O
 
-TUSERUSER O
+@lmrei O
 du O
 hast O
 gar O
@@ -40662,7 +40662,7 @@ KOSTENLOS O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Vor O
 einem O
 langen O
@@ -40672,7 +40672,7 @@ gut O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Vielleicht O
 würde O
@@ -40717,7 +40717,7 @@ war O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 der O
 Kern O
 ist O
@@ -40752,7 +40752,7 @@ werden O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 die O
 musik O
 is O
@@ -40815,7 +40815,7 @@ der O
 Peinlichkeitsfalle O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 solange O
 du O
 keine O
@@ -40948,7 +40948,7 @@ der O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 bringe O
@@ -40969,7 +40969,7 @@ voten O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Russlands MISC
 Nachbarn O
@@ -41009,7 +41009,7 @@ Red O
 #2 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bayern ORG
 München ORG
@@ -41038,11 +41038,11 @@ Ribéry PERSON
 Mandzukic PERSON
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Arsenal-Stars O
 um O
-TUSERUSER O
+@lmrei O
 feiern O
 2 O
 : O
@@ -41066,7 +41066,7 @@ Seitenschweller O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 oh O
 , O
@@ -41112,7 +41112,7 @@ arbeitest O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Singapur LOCATION
 , O
@@ -41194,7 +41194,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -41270,7 +41270,7 @@ hinaus O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Statistik O
 : O
@@ -41311,7 +41311,7 @@ Geburtstag O
 👍 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Riskante O
 Mittel O
@@ -41325,8 +41325,8 @@ Schuldenberg O
 loswerden O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Ah O
 ein O
 " O
@@ -41344,7 +41344,7 @@ einfach O
 gell O
 ? O
 
-TUSERUSER O
+@lmrei O
 hahahahahhaah O
 schick O
 mir O
@@ -41378,7 +41378,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Dann O
 bist O
 du O
@@ -41423,7 +41423,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -41455,7 +41455,7 @@ Kater O
 … O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 dass O
 du O
 da O
@@ -41587,7 +41587,7 @@ der O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 BITTE O
 folg O
 mir O
@@ -41604,7 +41604,7 @@ sehr O
 😍😍😍 O
 #askliont O
 
-TUSERUSER O
+@lmrei O
 Ich O
 auch O
 nachher O
@@ -41643,7 +41643,7 @@ ist O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wdh O
 . O
@@ -41690,7 +41690,7 @@ Song O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 dickbusige O
 Mädchen O
@@ -41711,7 +41711,7 @@ Nice O
 ! O
 #Gamescom O
 
-TUSERUSER O
+@lmrei O
 Beim O
 Club O
 gabe O
@@ -41739,7 +41739,7 @@ der O
 Hammer O
 . O
 
-TUSERUSER O
+@lmrei O
 Ich O
 schaue O
 ... O
@@ -41752,7 +41752,7 @@ sauber O
 D: O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Niemals O
 wieder O
@@ -41762,7 +41762,7 @@ Sweater O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ich O
 dachte O
 immer O
@@ -41789,7 +41789,7 @@ sehnsucht O
 opfer O
 . O
 
-TUSERUSER O
+@lmrei O
 next O
 summer O
 ? O
@@ -41800,10 +41800,10 @@ City LOCATION
 : O
 TURLURL O
 via O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 Erstens O
 : O
 die O
@@ -41917,7 +41917,7 @@ und O
 will O
 !!!! O
 
-TUSERUSER O
+@lmrei O
 Ihh O
 , O
 Twitterpärchen O
@@ -41933,7 +41933,7 @@ Gerücht O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Moto O
 X O
@@ -41972,14 +41972,14 @@ gemeldet O
 , O
 TURLURL O
 mit O
-TUSERUSER O
+@lmrei O
 - O
 Social O
 GPS O
 . O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Dann O
 eben O
 96/97/98/99/00 O
@@ -42026,7 +42026,7 @@ verletzt O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Da O
 meine O
 Tour O
@@ -42070,7 +42070,7 @@ FISCHNEWS O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Besucht O
 die O
@@ -42083,11 +42083,11 @@ Irene LOCATION
 s O
 Book MISC
 Oasis MISC
-TUSERUSER O
+@lmrei O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Hast O
 Du O
 auch O
@@ -42107,7 +42107,7 @@ idiotischer O
 Diktator O
 ! O
 
-TUSERUSER O
+@lmrei O
 Man O
 muss O
 ja O
@@ -42121,7 +42121,7 @@ fallen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Zum O
 #Vatertag O
@@ -42137,8 +42137,8 @@ saufen O
 . O
 #MeineMeinung O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 PDF O
 Expert O
 sieht O
@@ -42305,7 +42305,7 @@ August O
 ? O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 In O
 Nicht-Download-Form O
 sind O
@@ -42392,7 +42392,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Eine O
 Karte O
@@ -42411,11 +42411,11 @@ hier O
 TURLURL O
 /jc O
 
-TUSERUSER O
+@lmrei O
 und O
-TUSERUSER O
+@lmrei O
 fordern O
-TUSERUSER O
+@lmrei O
 auf O
 , O
 #snowde PERSON
@@ -42433,7 +42433,7 @@ Aktion O
 #NSA ORG
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Münchner MISC
 Kunsterbe O
@@ -42449,7 +42449,7 @@ Ein O
 rohes O
 Osterfest O
 für O
-TUSERUSER O
+@lmrei O
 ... O
 Umzug O
 für O
@@ -42467,7 +42467,7 @@ des O
 Ruhrgebiet LOCATION
 . O
 
-TUSERUSER O
+@lmrei O
 ich O
 kann O
 nicht O
@@ -42483,7 +42483,7 @@ besser O
 XD O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Präsident O
 Nikolic PERSON
@@ -42530,7 +42530,7 @@ schauen O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Viel O
 Erfolg O
 und O
@@ -42574,12 +42574,12 @@ Der O
 TURLURL O
 
 " O
-TUSERUSER O
+@lmrei O
 : O
 Just O
 in O
 : O
-TUSERUSER O
+@lmrei O
 has O
 given O
 birth O
@@ -42622,7 +42622,7 @@ User O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 YEEAH O
 ! O
@@ -42649,7 +42649,7 @@ Kommentare O
 lt O
 ;3 O
 
-TUSERUSER O
+@lmrei O
 Oh O
 , O
 achso O
@@ -42705,7 +42705,7 @@ ziemlicb O
 knuffig O
 ^-^ O
 
-TUSERUSER O
+@lmrei O
 So O
 voll O
 wird O
@@ -42725,7 +42725,7 @@ mal O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 ISS-Raumstation O
 : O
@@ -42745,7 +42745,7 @@ http O
 co/eGTURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ärgerst O
 du O
@@ -42771,8 +42771,8 @@ http O
 . O
 co/2TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 tja O
 erst O
 muss O
@@ -42816,7 +42816,7 @@ dem O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Berlin LOCATION
 , O
@@ -42876,7 +42876,7 @@ an O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nein O
 , O
@@ -42934,12 +42934,12 @@ die O
 Brüche O
 geht O
 
-TUSERUSER O
+@lmrei O
 Oh O
 , O
 du O
 bist O
-TUSERUSER O
+@lmrei O
 gefolgt O
 und O
 ich O
@@ -42978,7 +42978,7 @@ Stadionkasse O
 TURLURL O
 
 Der O
-TUSERUSER O
+@lmrei O
 berichtet O
 gerade O
 über O
@@ -43047,7 +43047,7 @@ hilft O
 #hsv O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 BoConcept MISC
 Hannover LOCATION
@@ -43073,7 +43073,7 @@ auf O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ex-Berater O
 warnt O
@@ -43141,7 +43141,7 @@ F O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 sehnen O
@@ -43163,7 +43163,7 @@ Defekt O
 ist O
 ? O
 
-TUSERUSER O
+@lmrei O
 MIt O
 Geld O
 schafft O
@@ -43191,7 +43191,7 @@ mal O
 getestet O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Trotz O
 der O
@@ -43210,7 +43210,7 @@ Westen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mit O
 diesem O
@@ -43256,7 +43256,7 @@ Zeit O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Dänisches MISC
 Design O
@@ -43326,7 +43326,7 @@ im O
 #rbbFernsehen O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 bleiben O
@@ -43371,7 +43371,7 @@ Zukunft MISC
 Reihe MISC
 . O
 
-TUSERUSER O
+@lmrei O
 gut O
 , O
 dann O
@@ -43397,7 +43397,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -43445,7 +43445,7 @@ Sommer O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wenn O
 du O
@@ -43462,7 +43462,7 @@ Fernglas O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Buhrow O
 : O
@@ -43503,7 +43503,7 @@ keine O
 Einigung O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 manche O
 sagen O
 auch O
@@ -43539,7 +43539,7 @@ s O
 immer O
 . O
 
-TUSERUSER O
+@lmrei O
 wir O
 werden O
 mit O
@@ -43561,7 +43561,7 @@ herraus O
 bekommen O
 ? O
 
-TUSERUSER O
+@lmrei O
 Und O
 nichts O
 davon O
@@ -43578,7 +43578,7 @@ Abschreibungsobjekte O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Und O
 was O
@@ -43620,7 +43620,7 @@ Extern O
 .. O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 TOOOOOOOOR O
 !!! O
@@ -43651,7 +43651,7 @@ auf O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ich O
 mach O
 mit O
@@ -43692,7 +43692,7 @@ auf O
 : O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Mit O
 dem O
@@ -43709,7 +43709,7 @@ TURLURL O
 #backlinks O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 [ O
 TheParadigm MISC
@@ -43738,7 +43738,7 @@ verschlief O
 #TTIPRecherche O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 gegen O
 Deutschland LOCATION
 . O
@@ -43815,7 +43815,7 @@ Musik O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Morgen O
 gibts O
@@ -43836,13 +43836,13 @@ tomorrow O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Pep PERSON
 #Guardiola PERSON
 warnt O
 vor O
-TUSERUSER O
+@lmrei O
 . O
 Seine O
 Spieler O
@@ -43850,7 +43850,7 @@ Mario PERSON
 #G O
 ötze O
 und O
-TUSERUSER O
+@lmrei O
 spüren O
 ein O
 Kribbeln O
@@ -43881,7 +43881,7 @@ Lord PERSON
 Voldemort PERSON
 . O
 
-TUSERUSER O
+@lmrei O
 Das O
 ist O
 mir O
@@ -43929,7 +43929,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Google ORG
 schnappt O
@@ -43944,7 +43944,7 @@ Deal O
 bedeutet O
 , O
 schreibt O
-TUSERUSER O
+@lmrei O
 . O
 TURLURL O
 
@@ -43967,7 +43967,7 @@ Münchner O
 Fl O
 ... O
 TURLURL O
-TUSERUSER O
+@lmrei O
 
 Ich O
 habe O
@@ -44056,7 +44056,7 @@ grün O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Er O
 hätte O
 sich O
@@ -44078,7 +44078,7 @@ Die O
 Türkei LOCATION
 tritt O
 wegen O
-TUSERUSER O
+@lmrei O
 gegen O
 den O
 #ESC ORG
@@ -44097,7 +44097,7 @@ mitmachen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Da O
 kann O
@@ -44120,7 +44120,7 @@ beworben O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 bin O
@@ -44172,7 +44172,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nie O
 mehr O
@@ -44185,7 +44185,7 @@ selbstreinigende O
 Auto O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Das O
 freut O
 mich O
@@ -44203,7 +44203,7 @@ beste O
 Nachricht O
 für O
 deutsche MISC
-TUSERUSER O
+@lmrei O
 Fans O
 seit O
 langem O
@@ -44211,7 +44211,7 @@ langem O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Taumelder O
 Riese O
@@ -44226,7 +44226,7 @@ Wirtschaftsmacht O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 WWE MISC
 2K15 MISC
@@ -44246,7 +44246,7 @@ Release-Termin O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Pfingsthitze O
 : O
@@ -44277,7 +44277,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Verfassungsrechtliche O
 Tabuzone O
@@ -44314,8 +44314,8 @@ den O
 ... O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 JETZT O
 ECHT O
 MA O
@@ -44328,7 +44328,7 @@ gesagt O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 BoConcept O
 Experience O
@@ -44454,7 +44454,7 @@ Euro O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Guten O
 Morgen O
@@ -44478,7 +44478,7 @@ bleiben O
 . O
 #servicetweet O
 
-TUSERUSER O
+@lmrei O
 wird O
 das O
 dann O
@@ -44494,9 +44494,9 @@ sehen O
 ;) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 LOL O
 #DieLinke O
 hat O
@@ -44514,9 +44514,9 @@ dazustehen O
 in O
 Sachsen LOCATION
 ? O
-TUSERUSER O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 das O
 is O
 ja O
@@ -44589,7 +44589,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 bin O
@@ -44658,9 +44658,9 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Sympathisches O
 Interview O
 mit O
@@ -44669,7 +44669,7 @@ Chef O
 in O
 der O
 heutigen O
-TUSERUSER O
+@lmrei O
 #Kusej O
 #M O
 ünchen O
@@ -44702,7 +44702,7 @@ aber O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 halten O
@@ -44729,7 +44729,7 @@ helfen O
 TURLURL O
 
 #FallonTonight O
-TUSERUSER O
+@lmrei O
 sieht O
 aus O
 wie O
@@ -44739,7 +44739,7 @@ in O
 jungen O
 Jahren O
 :D O
-TUSERUSER O
+@lmrei O
 
 Wenn O
 etwas O
@@ -44807,7 +44807,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Besucht O
 die O
@@ -44820,11 +44820,11 @@ Irene O
 s O
 Book O
 Oasis O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Countdown O
@@ -44861,7 +44861,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Vorsicht O
 ! O
 Du O
@@ -44900,7 +44900,7 @@ CC-BY-SA O
 TURLURL O
 ) O
 
-TUSERUSER O
+@lmrei O
 ausser O
 ich O
 bin O
@@ -44973,7 +44973,7 @@ verantwortlich O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Rezensionen O
 #Leserstimmen O
@@ -45000,7 +45000,7 @@ http O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Public O
 Relations O
@@ -45076,7 +45076,7 @@ Windenergie O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Könnte O
 Sie O
 , O
@@ -45099,7 +45099,7 @@ teilen O
 TURLURL O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 oder O
 kostenlos O
 für O
@@ -45132,7 +45132,7 @@ At O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wie O
 die O
@@ -45196,7 +45196,7 @@ von O
 Vermietern O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Was O
 für O
 ein O
@@ -45266,7 +45266,7 @@ Bundesrepl O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 RETWEET O
 ! O
@@ -45289,7 +45289,7 @@ Uhrumstellung O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Man O
 sollte O
@@ -45305,7 +45305,7 @@ lassen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 In O
 Berlin LOCATION
@@ -45331,9 +45331,9 @@ n O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 ich O
 denk O
 heute O
@@ -45360,7 +45360,7 @@ Gesundheit O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bislang O
 mehr O
@@ -45408,7 +45408,7 @@ Hochzeiten O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ausbildung O
 und O
@@ -45499,7 +45499,7 @@ gewinnt O
 #GNTM O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Urteil O
 des O
@@ -45567,10 +45567,10 @@ Musicacts O
 bei O
 #SdR O
 Liebes O
-TUSERUSER O
+@lmrei O
 ? O
 
-TUSERUSER O
+@lmrei O
 ich O
 wusste O
 garnicht O
@@ -45599,7 +45599,7 @@ Möglichkeiten O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wissta O
 was O
@@ -45636,7 +45636,7 @@ skiurlaub O
 IYNUQlz O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Unsere O
 Nummer O
@@ -45682,7 +45682,7 @@ halten O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Europas O
 schönstes O
@@ -45865,7 +45865,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Es O
 ist O
@@ -46012,14 +46012,14 @@ Fort ORG
 hat O
 auf O
 der O
-TUSERUSER O
+@lmrei O
 einen O
 Technoclub O
 nachgebaut O
 TURLURL O
 #artcologne O
 
-TUSERUSER O
+@lmrei O
 alle O
 , O
 die O
@@ -46070,7 +46070,7 @@ Kollege O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Demonstrationen O
 nach O
@@ -46096,7 +46096,7 @@ Facebook MISC
 gepostet O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Das O
 ist O
 so O
@@ -46125,7 +46125,7 @@ Magen O
 hau´n O
 " O
 . O
-TUSERUSER O
+@lmrei O
 
 Zuhause O
 - O
@@ -46162,7 +46162,7 @@ aufrecht O
 #flug O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 bei O
 der O
 Rom O
@@ -46193,7 +46193,7 @@ CHIP O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Das O
 " O
@@ -46296,7 +46296,7 @@ sexy O
 ;) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kinder O
 brauchen O
@@ -46312,8 +46312,8 @@ zu O
 entdecken O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Ist O
 natürlich O
 Quatsch O
@@ -46333,7 +46333,7 @@ Hoffe O
 ich O
 . O
 
-TUSERUSER O
+@lmrei O
 feige O
 bande O
 , O
@@ -46383,7 +46383,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Geburt O
@@ -46432,7 +46432,7 @@ Zwiebeln O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Zur O
 Zeit O
@@ -46445,15 +46445,15 @@ Rathaus O
 . O
 0 O
 im O
-TUSERUSER O
+@lmrei O
 TURLURL O
 #eGov O
 #OpenData O
 #kw14 O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Moderne O
 Public O
@@ -46533,7 +46533,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Bisher O
 weiß O
 ich O
@@ -46619,7 +46619,7 @@ Profiniveau O
 " O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Arsch O
 ist O
 aber O
@@ -46641,10 +46641,10 @@ AKTION O
 TURLURL O
 #WVP14 O
 via O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kaum O
 ist O
@@ -46703,7 +46703,7 @@ Neuheiten-Messe O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Bitte O
 noch O
 den O
@@ -46783,7 +46783,7 @@ unserer O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Um O
 weitere O
@@ -46798,7 +46798,7 @@ Bergwerksdorf O
 ab O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Ich O
 habe O
@@ -46858,9 +46858,9 @@ bday O
 mit O
 tangatanga3 O
 gefeiert O
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 
 Übrigens O
 der O
@@ -46882,9 +46882,9 @@ finde O
 #FightClub MISC
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 ich O
 bin O
 mehr O
@@ -46895,7 +46895,7 @@ auf O
 dich O
 . O
 
-TUSERUSER O
+@lmrei O
 vlt O
 kommt O
 er O
@@ -46918,7 +46918,7 @@ gepostet O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Leuchtkraft O
 für O
@@ -46929,9 +46929,9 @@ Social O
 Media O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 welches O
 video O
 meinst O
@@ -46946,7 +46946,7 @@ nicht O
 angeschaut O
 XD O
 
-TUSERUSER O
+@lmrei O
 » O
 Ich O
 schreibe O
@@ -47025,7 +47025,7 @@ habe O
 ein O
 TUSERUSER-Video O
 von O
-TUSERUSER O
+@lmrei O
 positiv O
 bewertet O
 : O
@@ -47039,7 +47039,7 @@ Fook O
 Winner O
 ) O
 
-TUSERUSER O
+@lmrei O
 Pauschal O
 und O
 polemisch O
@@ -47069,7 +47069,7 @@ XXL O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Werbekampagne O
 zur O
@@ -47083,7 +47083,7 @@ einen O
 Shitstorm O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 den O
 kann O
 ich O
@@ -47097,7 +47097,7 @@ immer O
 hitzewallungen😂 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 ARD O
@@ -47123,9 +47123,9 @@ in O
 der O
 #g14 O
 mit O
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 und O
 anderen O
 . O
@@ -47256,11 +47256,11 @@ aussieht O
 :3 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Arsenal-Stars O
 um O
-TUSERUSER O
+@lmrei O
 feiern O
 2 O
 : O
@@ -47292,7 +47292,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Wer O
 will O
 so O
@@ -47434,7 +47434,7 @@ auf O
 Deutsch MISC
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Früher O
 bin O
 ich O
@@ -47447,7 +47447,7 @@ auf O
 Casper O
 :D O
 
-TUSERUSER O
+@lmrei O
 Nicht O
 vergessen O
 den O
@@ -47515,7 +47515,7 @@ Albrecht PERSON
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ach O
 , O
@@ -47534,7 +47534,7 @@ Und O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Freute O
 mich O
@@ -47571,7 +47571,7 @@ Motiven O
 ♥♥ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bahnstrecken O
 in O
@@ -47587,8 +47587,8 @@ TURLURL O
 #Gewitter O
 #Bahn O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 ich O
 bin O
 geboren O
@@ -47598,7 +47598,7 @@ zu O
 sein O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Raubkopie O
 oder O
@@ -47622,7 +47622,7 @@ http O
 /TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Pageflow MISC
 für O
@@ -47643,7 +47643,7 @@ http O
 . O
 co/P4UzBuiTURLURL O
 
-TUSERUSER O
+@lmrei O
 auf O
 Arbeit O
 aufgerissen O
@@ -47662,12 +47662,12 @@ out O
 TURLURL O
 Stories O
 via O
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Twitterer O
 mit O
@@ -47695,7 +47695,7 @@ ich O
 singe O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 diskriminierung O
 ist O
@@ -47720,10 +47720,10 @@ me O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 #Polizei O
@@ -47741,7 +47741,7 @@ htt O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Für O
 Katharina PERSON
@@ -47760,7 +47760,7 @@ gestreichelt O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ein O
 Passagier O
@@ -47801,7 +47801,7 @@ in O
 Jiech LOCATION
 : O
 Wie O
-TUSERUSER O
+@lmrei O
 auch O
 schwer O
 erreichbare O
@@ -47920,7 +47920,7 @@ Sc O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Wenn O
 ich O
 mich O
@@ -47942,7 +47942,7 @@ Gute O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 55-Jähriger O
 schuldig O
@@ -48011,7 +48011,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kurdische O
 Eltern O
@@ -48030,7 +48030,7 @@ rekrutieren O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Fernseher O
 und O
@@ -48051,7 +48051,7 @@ aus O
 : O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 kannst O
 du O
 mir O
@@ -48066,7 +48066,7 @@ lange O
 :(((((((( O
 
 " O
-TUSERUSER O
+@lmrei O
 : O
 Wer O
 hat O
@@ -48090,7 +48090,7 @@ abgehauen O
 TURLURL O
 " O
 
-TUSERUSER O
+@lmrei O
 Quasi O
 bleibt O
 mir O
@@ -48106,7 +48106,7 @@ AC5 O
 . O
 :/ O
 
-TUSERUSER O
+@lmrei O
 Wenn O
 ich O
 so O
@@ -48202,7 +48202,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 #A3 O
@@ -48246,7 +48246,7 @@ nicht O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Das O
 packst O
@@ -48266,9 +48266,9 @@ das O
 beste O
 geben😊 O
 “ O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 und O
 ich O
 hab O
@@ -48318,7 +48318,7 @@ Jahr O
 . O
 #Armenia LOCATION
 
-TUSERUSER O
+@lmrei O
 will O
 auch O
 noch O
@@ -48345,7 +48345,7 @@ S O
 IMPOSSIBRU O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Paparazzi O
 Shanti PERSON
@@ -48392,7 +48392,7 @@ sein O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 DER O
 e-Marketingday O
@@ -48460,7 +48460,7 @@ Knast O
 #Domian O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Was O
 haben O
@@ -48509,7 +48509,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 ich O
 schau O
 ihn O
@@ -48545,8 +48545,8 @@ Hose O
 #esc14 MISC
 #acdc ORG
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 ich O
 gehe O
 das O
@@ -48576,7 +48576,7 @@ Schon O
 wieder O
 Werbung O
 ? O
-TUSERUSER O
+@lmrei O
 Ist O
 langsam O
 ein O
@@ -48587,7 +48587,7 @@ mh O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Sex O
@@ -48603,7 +48603,7 @@ Bad O
 Teacher O
 " O
 
-TUSERUSER O
+@lmrei O
 1 O
 ) O
 schaue O
@@ -48626,7 +48626,7 @@ und O
 murmel O
 etwas^^ O
 
-TUSERUSER O
+@lmrei O
 das O
 ich O
 das O
@@ -48638,9 +48638,9 @@ DANKE O
 WWE O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 am O
 anfang O
 muss O
@@ -48685,7 +48685,7 @@ sind O
 #LT O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kevin PERSON
 Harlan PERSON
@@ -48697,7 +48697,7 @@ Angebot O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ich O
 auch O
 aber O
@@ -48753,15 +48753,15 @@ wissen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 schon O
 gehört O
 ? O
 Demo O
 gegen O
-TUSERUSER O
+@lmrei O
 ! O
 Sa O
 , O
@@ -48780,7 +48780,7 @@ Schadowplatz MISC
 #s O
 … O
 
-TUSERUSER O
+@lmrei O
 wie O
 diskutierst O
 Du O
@@ -48799,14 +48799,14 @@ Laden O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Was O
 für O
 ein O
 Bild O
 ! O
-TUSERUSER O
+@lmrei O
 twitterte O
 gestern O
 dieses O
@@ -48825,7 +48825,7 @@ http O
 . O
 co/x7Vd6wETURLURL O
 
-TUSERUSER O
+@lmrei O
 wer O
 mordet O
 wenn O
@@ -48865,7 +48865,7 @@ bei O
 den O
 Stiftskonzerten O
 ! O
-TUSERUSER O
+@lmrei O
 singen O
 am O
 29 O
@@ -48880,7 +48880,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 König O
 Konrad O
@@ -48997,20 +48997,20 @@ Kämpfer O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Gerade O
 den O
 wunderbarsten O
 Mensch O
-TUSERUSER O
+@lmrei O
 getroffen O
 . O
 So O
 dankbar O
 OOMMGG O
 
-TUSERUSER O
+@lmrei O
 oh O
 das O
 ist O
@@ -49031,7 +49031,7 @@ ja O
 ☯ O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 sie O
 ist O
 mein O
@@ -49093,10 +49093,10 @@ offen O
 ) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
-TUSERUSER O
+@lmrei O
 hat O
 einfach O
 die O
@@ -49134,7 +49134,7 @@ DE O
 natürlich) O
 ? O
 
-TUSERUSER O
+@lmrei O
 Oh O
 Ja O
 ! O
@@ -49147,7 +49147,7 @@ Stimmung O
 ! O
 :)) O
 
-TUSERUSER O
+@lmrei O
 Tja O
 Du O
 , O
@@ -49219,7 +49219,7 @@ Facebook MISC
 gepostet O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Wieso O
 hab O
 ich O
@@ -49289,7 +49289,7 @@ via O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Es O
 gibt O
@@ -49300,13 +49300,13 @@ für O
 uns O
 Cluberer O
 . O
-TUSERUSER O
+@lmrei O
 hat O
 mit O
 dem O
 Betreiber O
 von O
-TUSERUSER O
+@lmrei O
 gesprochen O
 . O
 http O
@@ -49355,7 +49355,7 @@ Kämpfer O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Das O
 Niederrhein-Pokalspiel O
@@ -49380,7 +49380,7 @@ http O
 . O
 co/6TURLURL O
 
-TUSERUSER O
+@lmrei O
 lieber O
 mathe O
 ? O
@@ -49415,7 +49415,7 @@ Crisis O
 😆 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Im O
 Nirgendwo O
@@ -49459,7 +49459,7 @@ Produktion O
 #Detox O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Der O
 Name O
 ist O
@@ -49473,7 +49473,7 @@ Wurst O
 =) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #OSZE ORG
 bestätigt O
@@ -49507,7 +49507,7 @@ an O
 Feuerschale O
 . O
 
-TUSERUSER O
+@lmrei O
 ( O
 Wanderimker O
 ) O
@@ -49528,7 +49528,7 @@ Flugbienen O
 zurücklassen O
 . O
 
-TUSERUSER O
+@lmrei O
 Übrigens O
 , O
 meine O
@@ -49552,7 +49552,7 @@ traut O
 sich O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 80 O
 Mal O
@@ -49582,7 +49582,7 @@ Haut O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Deutsche MISC
 Politiker O
@@ -49600,7 +49600,7 @@ ab O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kriminalität O
 : O
@@ -49614,7 +49614,7 @@ eingebrochen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Österreichs MISC
 Selbstständige O
@@ -49629,11 +49629,11 @@ gemacht O
 TURLURL O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Luftsäcke O
 : O
@@ -49659,7 +49659,7 @@ gepostet O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 DFB O
 POKAL O
@@ -49685,7 +49685,7 @@ RCTI O
 ) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Lesestoff O
 für O
@@ -49733,7 +49733,7 @@ fahren O
 würde O
 . O
 
-TUSERUSER O
+@lmrei O
 wie O
 wollen O
 die O
@@ -49746,7 +49746,7 @@ den O
 Schlitzaugen O
 . O
 
-TUSERUSER O
+@lmrei O
 Nö O
 . O
 Dazu O
@@ -49785,7 +49785,7 @@ verwirrt O
 ßball O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 GSLeague O
 . O
@@ -49806,7 +49806,7 @@ Browsergame O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Auf O
 ein O
@@ -49823,7 +49823,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Geschlechterkluft O
 - O
@@ -49833,7 +49833,7 @@ Gehaltsunterschiede O
 offenlegen O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Ich O
 habe O
@@ -49854,7 +49854,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 Islamisten-Sturm O
@@ -49868,10 +49868,10 @@ Obamas PERSON
 Außenpolitik O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Gluten O
 -Intoleranz O
@@ -49905,11 +49905,11 @@ Irene O
 s O
 Book O
 Oasis O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Sherlock O
 ist O
@@ -49920,18 +49920,18 @@ ab O
 Uhr O
 zurück O
 in O
-TUSERUSER O
+@lmrei O
 . O
 Unsere O
 Autorin O
-TUSERUSER O
+@lmrei O
 meint O
 : O
 Einschalten O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Werd O
 aber O
 in O
@@ -49948,7 +49948,7 @@ nichts O
 zu O
 tum O
 
-TUSERUSER O
+@lmrei O
 Wenn O
 Obama PERSON
 aufhört O
@@ -49976,7 +49976,7 @@ können O
 nachhause O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 DANKE O
 für O
@@ -50007,10 +50007,10 @@ http O
 co/FHzFRoTURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Klingt O
 nach O
 einem O
@@ -50036,7 +50036,7 @@ TURLURL O
 #Android MISC
 #Androidgames O
 
-TUSERUSER O
+@lmrei O
 was O
 interessiert O
 es O
@@ -50058,7 +50058,7 @@ man O
 sein O
 haha O
 
-TUSERUSER O
+@lmrei O
 unglaublich😄😄😄jeder O
 so O
 wie O
@@ -50067,7 +50067,7 @@ es O
 verdient O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 FOTO O
 : O
@@ -50081,7 +50081,7 @@ Kabine O
 TURLURL O
 
 " O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Jeder O
@@ -50117,7 +50117,7 @@ Regit O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 so O
 oft O
 kann O
@@ -50137,7 +50137,7 @@ zur O
 vernunft O
 kommen O
 
-TUSERUSER O
+@lmrei O
 es O
 git O
 sächs O
@@ -50164,7 +50164,7 @@ isch O
 :) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Dudley PERSON
 Dursley PERSON
@@ -50274,7 +50274,7 @@ Gutscheine O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Charlie PERSON
 schluckte O
@@ -50318,7 +50318,7 @@ TURLURL O
 #ipadgames O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 wir O
 hatten O
 dieses O
@@ -50343,7 +50343,7 @@ hinter O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 will O
@@ -50376,7 +50376,7 @@ und O
 so O
 . O
 
-TUSERUSER O
+@lmrei O
 OMG O
 AHAHA O
 sagen O
@@ -50387,8 +50387,8 @@ jeder O
 Ausländer O
 
 . O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Und O
 wenn O
 Schröder PERSON
@@ -50404,7 +50404,7 @@ hätten O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Apple MISC
 Pay MISC
@@ -50423,7 +50423,7 @@ das O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Pressefreiheit O
 : O
@@ -50453,9 +50453,9 @@ unter O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 ja O
 aber O
 viel O
@@ -50466,7 +50466,7 @@ kurz O
 ️ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Großbrand O
 in O
@@ -50536,7 +50536,7 @@ TURLURL O
 #Schuhe O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Faszinierender O
 Kartendienst O
@@ -50550,7 +50550,7 @@ Zeitreisen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 BITTE O
 ALLE O
@@ -50637,7 +50637,7 @@ für O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Joshua PERSON
 #Kimmich O
@@ -50659,7 +50659,7 @@ Eurosport MISC
 #RBL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Biologe O
 der O
@@ -50680,7 +50680,7 @@ http O
 /TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 #Gauck PERSON
@@ -50714,9 +50714,9 @@ Antwort O
 " O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 Medieval O
 and O
 Renaissance O
@@ -50736,7 +50736,7 @@ an O
 der O
 Uni O
 
-TUSERUSER O
+@lmrei O
 TURLURL O
 Wir O
 kämpfen O
@@ -50812,7 +50812,7 @@ Jobs ORG
 Würzburg ORG
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Los O
 geht O
@@ -50824,9 +50824,9 @@ an O
 Board O
 ! O
 Neben O
-TUSERUSER O
+@lmrei O
 , O
-TUSERUSER O
+@lmrei O
 musste O
 #Contento PERSON
 kurzfristig O
@@ -50868,7 +50868,7 @@ TURLURL O
 #Android MISC
 #Gameinsight O
 
-TUSERUSER O
+@lmrei O
 Sie O
 ist O
 schon O
@@ -50905,7 +50905,7 @@ Produkte O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Ich O
@@ -50977,7 +50977,7 @@ sehen O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 kommst O
 du O
 irgendwann O
@@ -50996,13 +50996,13 @@ Trends O
 & O
 lt O
 ;3 O
-TUSERUSER O
+@lmrei O
 verdient O
 #meineschnubbimama O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 MATUIDI O
 TOTS O
@@ -51027,8 +51027,8 @@ Favorisieren O
 #FIFA O
 htTURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Miau O
 ! O
 Ich O
@@ -51049,7 +51049,7 @@ Nachbarn O
 . O
 ;) O
 
-TUSERUSER O
+@lmrei O
 : O
 Ein O
 Foto O
@@ -51123,7 +51123,7 @@ Koalitionspartner O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Industrie O
 mit O
@@ -51144,7 +51144,7 @@ https O
 . O
 co/S4TURLURL O
 
-TUSERUSER O
+@lmrei O
 gnihihi O
 , O
 ich O
@@ -51155,7 +51155,7 @@ denken O
 :-) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Angriff O
 auf O
@@ -51198,16 +51198,16 @@ bestellen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 GEFOLGT O
 & O
 lt O
 ;3 O
 DANKEE O
-TUSERUSER O
+@lmrei O
 " O
-TUSERUSER O
+@lmrei O
 retweetet O
 favorisiert O
 Video O
@@ -51223,9 +51223,9 @@ folg O
 
 Danke O
 an O
-TUSERUSER O
+@lmrei O
 und O
-TUSERUSER O
+@lmrei O
 für O
 die O
 FF O
@@ -51267,7 +51267,7 @@ TURLURL O
 #Gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Rettet O
 Bildung O
@@ -51276,7 +51276,7 @@ Banken O
 : O
 Volksbegehren O
 von O
-TUSERUSER O
+@lmrei O
 für O
 Hypo- O
 #Haftungsboykott O
@@ -51290,7 +51290,7 @@ http O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Einfach O
 nur O
@@ -51329,7 +51329,7 @@ Bio O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Tipps O
 für O
@@ -51341,15 +51341,15 @@ der O
 Der O
 Konferenzblog O
 von O
-TUSERUSER O
+@lmrei O
 und O
-TUSERUSER O
+@lmrei O
 zum O
 Nachlesen O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 wurde O
 dort O
 von O
@@ -51367,7 +51367,7 @@ Geld/Banken O
 ) O
 . O
 
-TUSERUSER O
+@lmrei O
 Samstag O
 is O
 . O
@@ -51392,7 +51392,7 @@ widersetzen O
 ) O
 . O
 
-TUSERUSER O
+@lmrei O
 Den O
 Teufel O
 muss O
@@ -51412,7 +51412,7 @@ Suchen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Menschen O
 , O
@@ -51453,7 +51453,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 haha O
 wenn O
 du O
@@ -51475,7 +51475,7 @@ Facebook ORG
 gepostet O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 gelöscht O
 . O
 Bin O
@@ -51528,7 +51528,7 @@ Keller O
 :-/ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ganzheitliches O
 Marketing O
@@ -51537,7 +51537,7 @@ den O
 Mittelstand O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Frag O
 sie O
 , O
@@ -51562,7 +51562,7 @@ können O
 #SpiritOfBullshit O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Rücktritt O
 des O
@@ -51599,7 +51599,7 @@ Kämpfer O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Alberto PERSON
 Undiano PERSON
@@ -51638,7 +51638,7 @@ TURLURL O
 #Gameinsight O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 berichtet O
 ihr O
 eigentlich O
@@ -51668,7 +51668,7 @@ TURLURL O
 #Gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Als O
 69erin O
@@ -51854,7 +51854,7 @@ die O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Alles O
 vorbereitet O
@@ -51868,7 +51868,7 @@ vor O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Putins MISC
 PR-Show O
@@ -52037,7 +52037,7 @@ fertig O
 :D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Nach O
 Hause O
@@ -52080,7 +52080,7 @@ gelesen O
 Challenge O
 Accepted O
 
-TUSERUSER O
+@lmrei O
 ja O
 mach O
 das O
@@ -52093,7 +52093,7 @@ sache O
 :D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Auch O
 in O
@@ -52148,7 +52148,7 @@ Schach O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 habe O
@@ -52162,7 +52162,7 @@ ausgenutzt O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 würde O
@@ -52186,7 +52186,7 @@ ja O
 nicht O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #ThyssenKrupp ORG
 soll O
@@ -52198,7 +52198,7 @@ gemauschelt O
 haben O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ja O
 , O
 vor O
@@ -52223,7 +52223,7 @@ Player O
 D: O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Eine O
 Schande O
@@ -52302,7 +52302,7 @@ tritt O
 zur��ck O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Ich O
 bin O
 ein O
@@ -52320,7 +52320,7 @@ geht O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Besucherrekord O
 : O
@@ -52334,8 +52334,8 @@ Welt O
 aus O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 und O
 woher O
 glauben O
@@ -52350,7 +52350,7 @@ Steuerenthüllungen O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 hoffe O
@@ -52379,7 +52379,7 @@ Bleib O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wenn O
 man O
@@ -52421,7 +52421,7 @@ Erkenntnisse O
 gewonnen O
 . O
 
-TUSERUSER O
+@lmrei O
 - O
 echt O
 verdammt O
@@ -52461,7 +52461,7 @@ sich O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hohe O
 Wahlbeteiligung O
@@ -52481,7 +52481,7 @@ abgegeben O
 #kwnrw14 O
 #ep14 O
 
-TUSERUSER O
+@lmrei O
 als O
 ob O
 wir O
@@ -52555,7 +52555,7 @@ Bei O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Egal O
 wie O
@@ -52572,7 +52572,7 @@ einen O
 Wunsch O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
 mutmaßliche O
@@ -52622,7 +52622,7 @@ Kinder O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Kaum O
 hab O
@@ -52644,7 +52644,7 @@ aufer O
 arbeit O
 :((((( O
 
-TUSERUSER O
+@lmrei O
 Ich O
 glaub O
 , O
@@ -52687,8 +52687,8 @@ weiß O
 yay O
 . O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 ja O
 und O
 ein O
@@ -52714,7 +52714,7 @@ sein O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Habe O
@@ -52751,7 +52751,7 @@ Gnöken O
 " O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Winterpause O
 ist O
@@ -52771,7 +52771,7 @@ Schlimm O
 #nurderfck O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 xxxjaninaxxx O
 - O
@@ -52823,7 +52823,7 @@ att O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 In O
 Düsseldorf LOCATION
@@ -52850,8 +52850,8 @@ gewinnen O
 . O
 
 . O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Dass O
 das O
 eine O
@@ -53002,7 +53002,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wetterexperte O
 Dominik PERSON
@@ -53050,7 +53050,7 @@ akzeptieren O
 #franken O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Das O
 is O
 ja O
@@ -53061,7 +53061,7 @@ Menge O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Patrick PERSON
 Bloch PERSON
@@ -53085,7 +53085,7 @@ http O
 cTURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hier O
 noch O
@@ -53097,11 +53097,11 @@ den O
 SPRNG O
 Clips O
 #sprngclips O
-TUSERUSER O
+@lmrei O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 ❤ O
 ️ O
@@ -53124,7 +53124,7 @@ HILFE O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Hey O
 , O
 es O
@@ -53195,7 +53195,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wie O
 aus O
@@ -53238,7 +53238,7 @@ Kultur O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Habt O
 ihr O
@@ -53262,7 +53262,7 @@ haben O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 +++ O
 Eil O
@@ -53286,12 +53286,12 @@ TURLURL O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Zu O
 #merkel60 O
 hat O
-TUSERUSER O
+@lmrei O
 eine O
 Infografik O
 über O
@@ -53302,7 +53302,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Anklage O
 wegen O
@@ -53347,7 +53347,7 @@ behinderten O
 Bildern O
 . O
 
-TUSERUSER O
+@lmrei O
 Mehr O
 als O
 Eins O
@@ -53367,7 +53367,7 @@ upgedatet O
 Zeitintensiv O
 :) O
 
-TUSERUSER O
+@lmrei O
 bei O
 uns O
 gab O
@@ -53393,7 +53393,7 @@ gewonnen O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Der O
 spült O
 nur O
@@ -53486,7 +53486,7 @@ Lebensbereiche O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Handicap O
 1 O
@@ -53499,7 +53499,7 @@ chillen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 „Eltern O
 mit O
@@ -53534,7 +53534,7 @@ als O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wünsche O
 euch O
@@ -53549,9 +53549,9 @@ morgen O
 : O
 -* O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Ich O
 hab O
 nix O
@@ -53567,7 +53567,7 @@ dürfen O
 ;-) O
 . O
 
-TUSERUSER O
+@lmrei O
 zu O
 schade O
 . O
@@ -53581,7 +53581,7 @@ eine O
 Woche O
 . O
 
-TUSERUSER O
+@lmrei O
 Weißt O
 du O
 vllt O
@@ -53618,7 +53618,7 @@ die O
 Lampedusa-Geflüchteten O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Grund- O
 und O
@@ -53649,7 +53649,7 @@ TURLURL O
 #Android MISC
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Abfahrt O
 ! O
@@ -53691,11 +53691,11 @@ ein O
 gutes O
 2014 O
 ! O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 👍 O
 
-TUSERUSER O
+@lmrei O
 soso O
 . O
 dann O
@@ -53719,7 +53719,7 @@ feiern O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Lesbenkurzhaarschnitt O
@@ -53741,7 +53741,7 @@ werfen O
 . O
 :) O
 
-TUSERUSER O
+@lmrei O
 Gute O
 Nacht O
 !! O
@@ -53757,7 +53757,7 @@ AVA O
 ! O
 ;) O
 
-TUSERUSER O
+@lmrei O
 #gabriel PERSON
 #Schulz PERSON
 das O
@@ -53804,7 +53804,7 @@ TURLURL O
 Vielen O
 Dank O
 an O
-TUSERUSER O
+@lmrei O
 
 massa ORG
 haus ORG
@@ -53817,7 +53817,7 @@ Lubetzki PERSON
 Bienia O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 EnergieVeranstaltungen O
 , O
@@ -53850,7 +53850,7 @@ gestimmt O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Khalifa PERSON
 Haftar PERSON
@@ -53864,7 +53864,7 @@ Chaos O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Praktisch O
 und O
@@ -53881,7 +53881,7 @@ Eine O
 Träger-Typologie O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 alles O
 gute O
 zum O
@@ -53909,7 +53909,7 @@ du O
 wirst O
 heute O
 
-TUSERUSER O
+@lmrei O
 Welche O
 Folge O
 bist O
@@ -53921,7 +53921,7 @@ Staffel O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bei O
 Facebook MISC
@@ -53939,9 +53939,9 @@ ein O
 Trojaner O
 ( O
 RT O
-TUSERUSER O
+@lmrei O
 via O
-TUSERUSER O
+@lmrei O
 ) O
 
 Verlust O
@@ -54005,7 +54005,7 @@ Zwang O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wir O
 fanden O
@@ -54033,7 +54033,7 @@ deinen O
 Heldenehren O
 ! O
 
-TUSERUSER O
+@lmrei O
 nenee O
 , O
 mein O
@@ -54082,7 +54082,7 @@ hier O
 TURLURL O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Im O
 Prinzip O
 schon O
@@ -54120,7 +54120,7 @@ tragischen O
 Wahrheit O
 . O
 
-TUSERUSER O
+@lmrei O
 na O
 klar O
 . O
@@ -54165,7 +54165,7 @@ TURLURL O
 #Androidgames O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Jaaa O
 ❤ O
@@ -54178,9 +54178,9 @@ könnte O
 platzen O
 haha O
 😍 O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 heey O
 . O
 Alles O
@@ -54212,7 +54212,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 gut O
 ne O
 xD O
@@ -54226,7 +54226,7 @@ nicht O
 xD O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Leute O
 , O
@@ -54338,7 +54338,7 @@ wieder O
 aufgetaucht O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 gar O
 nicht O
 toll O
@@ -54363,7 +54363,7 @@ franz O
 kann O
 😭 O
 
-TUSERUSER O
+@lmrei O
 Hoffe O
 , O
 dass O
@@ -54381,7 +54381,7 @@ wurde O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Rauchen O
 fügt O
@@ -54406,7 +54406,7 @@ rau O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Möbelbranche O
 : O
@@ -54492,7 +54492,7 @@ auf O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Guten O
 Morgen O
@@ -54538,7 +54538,7 @@ meeh O
 #Wacken O
 #Livestream O
 
-TUSERUSER O
+@lmrei O
 Und O
 ganz O
 unne O
@@ -54567,7 +54567,7 @@ einfach O
 verdient O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Vielleicht O
 ist O
@@ -54593,7 +54593,7 @@ hingehört O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #DigitaleAgenda O
 : O
@@ -54636,7 +54636,7 @@ TURLURL O
 #Gameinsight O
 #Androidgames O
 
-TUSERUSER O
+@lmrei O
 unter O
 dem O
 Deckmantel O
@@ -54708,7 +54708,7 @@ Reiseportal O
 auswählen O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 der O
 funktionale O
 Analphebitismus O
@@ -54737,17 +54737,17 @@ Hammer MISC
 in O
 der O
 dasErste O
-TUSERUSER O
+@lmrei O
 Mediathek O
 . O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 NACHRICHTEN O
 . O
-TUSERUSER O
+@lmrei O
 bleibt O
 nur O
 noch O
@@ -54765,7 +54765,7 @@ Neue O
 EU ORG
 … O
 
-TUSERUSER O
+@lmrei O
 Dachte O
 ich O
 mir O
@@ -54778,7 +54778,7 @@ gefällt O
 :-) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Gärtner O
 droht O
@@ -54829,8 +54829,8 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Was O
 hat O
 die O
@@ -54857,9 +54857,9 @@ Politiker O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Super O
 , O
 vielen O
@@ -54918,7 +54918,7 @@ e O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Update O
 #Ukraine LOCATION
@@ -54964,7 +54964,7 @@ können O
 ? O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 na O
 mit O
 dir O
@@ -54974,10 +54974,10 @@ aber O
 auch O
 nicht O
 tauschen O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 Hey O
 Petko O
 ! O
@@ -55110,9 +55110,9 @@ noch O
 . O
 XD O
 " O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 nur O
 mit O
 dem O
@@ -55123,7 +55123,7 @@ Pantoffelheld O
 " O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Negativpreis O
 für O
@@ -55167,7 +55167,7 @@ heißen O
 ? O
 #dasperfektedinner O
 
-TUSERUSER O
+@lmrei O
 Masseneinwanderung O
 , O
 koestlich O
@@ -55183,9 +55183,9 @@ rechten O
 Poebels O
 . O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 ach O
 so O
 . O
@@ -55197,7 +55197,7 @@ wieder O
 mal O
 . O
 
-TUSERUSER O
+@lmrei O
 freue O
 mich O
 auch O
@@ -55275,9 +55275,9 @@ TURLURL O
 #Netzpolitik O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 du O
 bist O
 mein O
@@ -55335,9 +55335,9 @@ und/oder O
 Ton O
 weg O
 . O
-TUSERUSER O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 Sollen O
 wir O
 das O
@@ -55390,7 +55390,7 @@ Hand O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ich O
 mach O
 dir O
@@ -55404,9 +55404,9 @@ whoop O
 whoop O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 In O
 #Dinslaken LOCATION
 ist O
@@ -55439,7 +55439,7 @@ an O
 Frank PERSON
 Schmiechen PERSON
 ( O
-TUSERUSER O
+@lmrei O
 ) O
 ins O
 Silicon LOCATION
@@ -55469,7 +55469,7 @@ R O
 37/10 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Benjamin PERSON
 hätte O
@@ -55481,7 +55481,7 @@ verdient O
 #ECHO2014 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Einnahmen O
 aus O
@@ -55582,7 +55582,7 @@ bereit O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 1 O
@@ -55618,7 +55618,7 @@ Facebook O
 gepostet O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 kp O
 was O
 du O
@@ -55648,8 +55648,8 @@ verbreiten O
 :) O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Sicher O
 nicht O
 . O
@@ -55676,7 +55676,7 @@ geheuer O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 brauche O
@@ -55734,7 +55734,7 @@ Viel O
 Spaß O
 ! O
 TURLURL O
-TUSERUSER O
+@lmrei O
 #Starcraft MISC
 #eSport O
 
@@ -55762,7 +55762,7 @@ allen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 01 O
 : O
@@ -55795,7 +55795,7 @@ Schulkommissionen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 TODESFALLE O
@@ -55811,7 +55811,7 @@ Paluten O
 : O
 TURLURL O
 über O
-TUSERUSER O
+@lmrei O
 
 Erstmal O
 die O
@@ -55829,7 +55829,7 @@ Fauldraht PERSON
 #webmagazin O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Spar- O
 und O
@@ -55870,7 +55870,7 @@ REGIONAL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Freihandelsabkommen O
 : O
@@ -55915,7 +55915,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 können O
 Sie O
 mir O
@@ -55951,7 +55951,7 @@ TURLURL O
 #a O
 ... O
 
-TUSERUSER O
+@lmrei O
 Meine O
 2 O
 letzten O
@@ -55971,7 +55971,7 @@ special O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wachstumsprognose O
 : O
@@ -56006,7 +56006,7 @@ aufs O
 Tor O
 zu O
 , O
-TUSERUSER O
+@lmrei O
 kommt O
 raus O
 . O
@@ -56027,7 +56027,7 @@ vorbei O
 ) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Verunglücktes O
 Idol O
@@ -56063,7 +56063,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Gran LOCATION
 Canaria LOCATION
@@ -56075,7 +56075,7 @@ Flugzeugabsturz O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 RESULT O
 - O
@@ -56108,7 +56108,7 @@ Lab O
 ) O
 #croydon O
 
-TUSERUSER O
+@lmrei O
 / O
 talentfrei O
 Karriere O
@@ -56133,7 +56133,7 @@ Kunst O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hier O
 findet O
@@ -56152,7 +56152,7 @@ Direction ORG
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Hör O
@@ -56183,7 +56183,7 @@ bist O
 . O
 " O
 
-TUSERUSER O
+@lmrei O
 Schaust O
 du O
 auch O
@@ -56203,9 +56203,9 @@ No O
 :D O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 für O
 ein O
 PAV O
@@ -56233,7 +56233,7 @@ Violetta O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Starben O
 gestern O
@@ -56254,7 +56254,7 @@ das O
 : O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 ( O
 2/2 O
 ) O
@@ -56279,7 +56279,7 @@ Unabhängigkeit O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Butter O
 im O
@@ -56295,7 +56295,7 @@ Fitnessgurus O
 schwören O
 drauf O
 , O
-TUSERUSER O
+@lmrei O
 hat O
 ihn O
 getestet O
@@ -56303,9 +56303,9 @@ getestet O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Achtung O
 ! O
 Große O
@@ -56335,7 +56335,7 @@ Luxusyacht O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Pageflow O
 für O
@@ -56369,7 +56369,7 @@ TURLURL O
 #finanzen O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Welt O
@@ -56386,8 +56386,8 @@ EU-Fraktion O
 ++ O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Die O
 vom O
 Westen O
@@ -56403,9 +56403,9 @@ nicht O
 besser O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Wir O
 haben O
 Angst O
@@ -56424,7 +56424,7 @@ beunruhigend O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Mit O
 dem O
@@ -56469,9 +56469,9 @@ hörenswert O
 : O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 Ist O
 mir O
 zu O
@@ -56503,7 +56503,7 @@ TURLURL O
 #Android O
 #Androidgames O
 
-TUSERUSER O
+@lmrei O
 wann O
 machst O
 du O
@@ -56513,7 +56513,7 @@ tanzkurs O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ein O
 rätselhafter O
@@ -56542,7 +56542,7 @@ TURLURL O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Was O
@@ -56678,10 +56678,10 @@ je O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Lieber O
-TUSERUSER O
+@lmrei O
 , O
 zuallererst O
 siezt O
@@ -56721,7 +56721,7 @@ ID959 O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Studie O
 : O
@@ -56773,7 +56773,7 @@ gt O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Es O
 beginnt O
@@ -56822,9 +56822,9 @@ verhindern O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 Fehleranalyse O
 ist O
 aber O
@@ -56951,7 +56951,7 @@ ein O
 ! O
 #Lanz O
 
-TUSERUSER O
+@lmrei O
 Sorry O
 , O
 aber O
@@ -56964,7 +56964,7 @@ Nase O
 geputzt O
 . O
 
-TUSERUSER O
+@lmrei O
 So O
 , O
 so O
@@ -57010,7 +57010,7 @@ weltgewahr O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Computerbranche O
 /Österreich LOCATION
@@ -57027,7 +57027,7 @@ stehen O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Zeichen O
 der O
@@ -57044,7 +57044,7 @@ Verfolgung O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #porn O
 , O
@@ -57079,7 +57079,7 @@ http O
 cTURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Na O
 na O
@@ -57111,8 +57111,8 @@ re O
 like O
 sisters O
 . O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Love O
 U O
 : O
@@ -57184,7 +57184,7 @@ Läuft O
 👌 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Wer O
 hat O
@@ -57215,7 +57215,7 @@ nach O
 TURLURL O
 #PresseNachrichten O
 
-TUSERUSER O
+@lmrei O
 ich O
 hab O
 paar O
@@ -57284,14 +57284,14 @@ absolviert O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Jetzt O
 hab O
 ichs O
 gemacht O
 wie O
-TUSERUSER O
+@lmrei O
 einfach O
 liegenbleiben O
 . O
@@ -57336,10 +57336,10 @@ mehr O
 lohnt O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Virgin ORG
 Blue ORG
@@ -57366,8 +57366,8 @@ http O
 . O
 cTURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Ahhh O
 das O
 ist O
@@ -57391,7 +57391,7 @@ zelos O
 xD O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 wäre O
@@ -57441,7 +57441,7 @@ werden O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Warum O
 rettete O
@@ -57456,7 +57456,7 @@ nicht O
 ? O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Verabrede O
 Dich O
@@ -57523,7 +57523,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Anti-Terror-Razzia O
 : O
@@ -57538,7 +57538,7 @@ TURLURL O
 #IS O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Naturkatastrophe O
 in O
@@ -57552,8 +57552,8 @@ fünf O
 Menschenleben O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 leider O
 schon O
 ausgeschlossen O
@@ -57586,7 +57586,7 @@ Kämpfer O
 #Immortalis MISC
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 lernen O
 für O
 was O
@@ -57615,7 +57615,7 @@ Rest O
 done O
 ! O
 
-TUSERUSER O
+@lmrei O
 * O
 leise O
 keuch O
@@ -57647,7 +57647,7 @@ frühen O
 morgen O
 . O
 
-TUSERUSER O
+@lmrei O
 danke O
 . O
 dann O
@@ -57689,7 +57689,7 @@ TURLURL O
 : O
 00 O
 
-TUSERUSER O
+@lmrei O
 Ich O
 dachte O
 rechtzeitig O
@@ -57704,7 +57704,7 @@ Sonst O
 : O
 ja O
 . O
-TUSERUSER O
+@lmrei O
 
 Ich O
 sammelte O
@@ -57734,7 +57734,7 @@ verbraucht O
 Läuft O
 ! O
 
-TUSERUSER O
+@lmrei O
 Wenn O
 das O
 nicht O
@@ -57745,7 +57745,7 @@ wär O
 😔 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Diskriminierung O
 ? O
@@ -57781,7 +57781,7 @@ aus O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 muss O
@@ -57802,9 +57802,9 @@ Arschloch O
 entscheiden O
 . O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Wer O
 von O
 Anfang O
@@ -57825,8 +57825,8 @@ in O
 Rente O
 ! O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Danke O
 für O
 den O
@@ -57838,7 +57838,7 @@ Scheis O
 BSC O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Guten O
 Morgen O
@@ -57896,10 +57896,10 @@ Montag O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Der O
-TUSERUSER O
+@lmrei O
 und O
 Nicolai PERSON
 Müller PERSON
@@ -57943,7 +57943,7 @@ orf-stiftungsrat O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Neuer O
 Auftaktort O
@@ -57965,9 +57965,9 @@ TURLURL O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 in O
 bester O
 Gesellschaft O
@@ -58025,7 +58025,7 @@ durch O
 ! O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Gehen O
 wir O
 einfach O
@@ -58056,7 +58056,7 @@ Facebook-Privacy-Einstellung O
 #followerpower O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Merkel PERSON
 ruft O
@@ -58122,7 +58122,7 @@ Prozent O
 teurer O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 #USA O
 Immer O
 , O
@@ -58150,7 +58150,7 @@ sind O
 overpresent O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 1994 O
 : O
@@ -58167,7 +58167,7 @@ erklärt O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 TOOOOOOOOR O
 für O
@@ -58247,7 +58247,7 @@ TURLURL O
 #AndroidGames O
 #GameInsight O
 
-TUSERUSER O
+@lmrei O
 Ich O
 heule O
 ja O
@@ -58271,7 +58271,7 @@ Selwies O
 im O
 Internet O
 
-TUSERUSER O
+@lmrei O
 ey O
 du O
 musst O
@@ -58309,11 +58309,11 @@ gewinnt O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Klopp PERSON
 bei O
-TUSERUSER O
+@lmrei O
 : O
 " O
 Man O
@@ -58362,7 +58362,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 zu O
 spät O
 ... O
@@ -58379,7 +58379,7 @@ flugzeug O
 👌 O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Update O
 : O
@@ -58395,7 +58395,7 @@ grün O
 TURLURL O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 und O
 alle O
 sorgen O
@@ -58417,7 +58417,7 @@ bett O
 muss O
 . O
 
-TUSERUSER O
+@lmrei O
 Ehm O
 ja O
 . O
@@ -58467,7 +58467,7 @@ Jetzt O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 jeder O
 kennt O
 die O
@@ -58488,7 +58488,7 @@ anfangen O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Gegen O
 miese O
@@ -58503,7 +58503,7 @@ Stimmabgabe O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 abrr O
 es O
 kommt O
@@ -58527,7 +58527,7 @@ veeprügeln O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Unser O
 Radio-Spot O
@@ -58640,11 +58640,11 @@ keine O
 Kuh O
 . O
 Fragt O
-TUSERUSER O
+@lmrei O
 ! O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Peinlicher O
 Fehler O
@@ -58687,8 +58687,8 @@ his O
 dream O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 ok O
 warte O
 ich O
@@ -58784,7 +58784,7 @@ gepostet O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Datenspionage O
 : O
@@ -58799,9 +58799,9 @@ knackt O
 . O
 TURLURL O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Womit O
 soll O
 sie O
@@ -58902,7 +58902,7 @@ Te O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Regenzeit O
 in O
@@ -59032,7 +59032,7 @@ löst O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Good O
 night O
@@ -59072,7 +59072,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 2 O
 , O
@@ -59115,7 +59115,7 @@ es O
 wissen O
 ? O
 
-TUSERUSER O
+@lmrei O
 Jap O
 . O
 :D O
@@ -59219,7 +59219,7 @@ zu O
 ... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Damals O
 als O
 die O
@@ -59268,16 +59268,16 @@ wi O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Jaa O
 mache O
 ich O
 dann O
 😍 O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
+@lmrei O
 woaah O
 *-* O
 zeig O
@@ -59289,7 +59289,7 @@ Foto*0 O
 
 RT O
 . O
-TUSERUSER O
+@lmrei O
 : O
 | O
 Raquel PERSON
@@ -59308,7 +59308,7 @@ Hintergrund O
 ... O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Die O
 Psychologie O
@@ -59323,7 +59323,7 @@ hält O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Online-PR O
 , O
@@ -59357,7 +59357,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 ► O
 ICH O
@@ -59427,9 +59427,9 @@ soo O
 ❤ O
 ️😭 O
 #askliont O
-TUSERUSER O
+@lmrei O
 
-TUSERUSER O
+@lmrei O
 meinst O
 du O
 nicht O
@@ -59448,7 +59448,7 @@ weinen O
 q.q O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 krieg O
@@ -59476,7 +59476,7 @@ keine O
 … O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Image O
 des O
@@ -59522,7 +59522,7 @@ an O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Ich O
 weiß O
@@ -59554,7 +59554,7 @@ wissen O
 ) O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 FINAL O
 : O
@@ -59594,7 +59594,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Danke O
 ! O
 :-) O
@@ -59675,7 +59675,7 @@ Verständlich O
 oder O
 ? O
 
-TUSERUSER O
+@lmrei O
 ja O
 , O
 reicht O
@@ -59773,7 +59773,7 @@ Gliedmaßen O
 anzubringen O
 . O
 
-TUSERUSER O
+@lmrei O
 Hab O
 ich O
 auch O
@@ -59830,7 +59830,7 @@ Echt O
 ketz O
 ... O
 
-TUSERUSER O
+@lmrei O
 Na O
 doch O
 , O
@@ -59869,7 +59869,7 @@ Video O
 .... O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 Meine O
 Mum O
 eigentlich O
@@ -59902,7 +59902,7 @@ TURLURL O
 
 Dank O
 dem O
-TUSERUSER O
+@lmrei O
 hab O
 ich O
 jetzt O
@@ -59914,7 +59914,7 @@ Subway O
 D: O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Hellooo O
 💕✨ O
@@ -59947,7 +59947,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Sehr O
 schöne O
 Figur O
@@ -59960,7 +59960,7 @@ gern O
 ^^ O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Thomas PERSON
 Morgenstern PERSON
@@ -60062,7 +60062,7 @@ posten O
 aTom O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Bevor O
 ich O
@@ -60112,7 +60112,7 @@ TURLURL O
 
 Bilanz O
 der O
-TUSERUSER O
+@lmrei O
 zur O
 verhinderten O
 NPD-Demo O
@@ -60139,7 +60139,7 @@ TURLURL O
 #Gameinsight O
 #Androidgames O
 
-TUSERUSER O
+@lmrei O
 das O
 ist O
 ein O
@@ -60280,7 +60280,7 @@ Sammler O
 . O
 TURLURL O
 
-TUSERUSER O
+@lmrei O
 was O
 für O
 eine O
@@ -60294,7 +60294,7 @@ einen O
 Knast O
 ? O
 
-TUSERUSER O
+@lmrei O
 hi O
 ich O
 gucke O
@@ -60314,7 +60314,7 @@ heute O
 ? O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Links O
 in O
@@ -60365,7 +60365,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 Hab O
 ' O
 s O
@@ -60404,7 +60404,7 @@ TURLURL O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #Superwichtig O
 : O
@@ -60417,7 +60417,7 @@ im O
 Supermarkt O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 #verbraucher O
 
 HSV ORG
@@ -60478,7 +60478,7 @@ TURLURL O
 #gameinsight O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Steht O
 das O
@@ -60517,7 +60517,7 @@ der O
 TURLURL O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 Unter O
 Null O
@@ -60532,7 +60532,7 @@ Kopf O
 stellen O
 TURLURL O
 via O
-TUSERUSER O
+@lmrei O
 
 Lg O
 aus O
@@ -60602,7 +60602,7 @@ TURLURL O
 , O
 #gameinsight O
 
-TUSERUSER O
+@lmrei O
 gesehen O
 o O
 . O
@@ -60668,7 +60668,7 @@ ft O
 . O
 Pharrell PERSON
 
-TUSERUSER O
+@lmrei O
 Optimaler O
 Hashtag O
 für O
@@ -60687,10 +60687,10 @@ können O
 #nuffsaid O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 immer O
 noch O
 keine O
@@ -60743,8 +60743,8 @@ TURLURL O
 #Androidgames O
 #Gameinsight O
 
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
 Stimmt O
 . O
 Er O
@@ -60765,9 +60765,9 @@ aber O
 nicht O
 . O
 
-TUSERUSER O
-TUSERUSER O
-TUSERUSER O
+@lmrei O
+@lmrei O
+@lmrei O
 Jo O
 klar O
 . O
@@ -60787,7 +60787,7 @@ Rahmen O
 schaffen O
 ;) O
 
-TUSERUSER O
+@lmrei O
 Du O
 kannst O
 gerne O
@@ -60799,7 +60799,7 @@ magst O
 . O
 
 RT O
-TUSERUSER O
+@lmrei O
 : O
 #kuchenfilme O
 aus O
@@ -60866,7 +60866,7 @@ Fußballmanager O
 ! O
 Schau O
 dir O
-TUSERUSER O
+@lmrei O
 an O
 : O
 TURLURL O
