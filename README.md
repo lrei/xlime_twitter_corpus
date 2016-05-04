@@ -1,6 +1,6 @@
 # xLiMe Twitter Corpus
 
-Luis Rei, Simon Krek Dunja Mladenić
+Luis Rei, Simon Krek, Dunja Mladenić
 
 {first.last}@ijs.si
 
