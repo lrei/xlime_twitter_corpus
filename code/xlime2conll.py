@@ -26,7 +26,7 @@ import pandas as pd
 from data import *
 
 m2short = {
-        'VERB': 'NOUN',
+        'VERB': 'VERB',
         'NOUN': 'NOUN',
         'PRONOUN': 'PRON',
         'ADJECTIVE':'ADJ',
